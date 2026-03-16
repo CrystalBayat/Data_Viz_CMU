@@ -8,13 +8,13 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+My data visualization work for 94-870 at CMU
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+A passionate woman from Afghanistan, using data to drive social impact. I love turning complex data into clear, compelling visualizations for non-expert. MSPPM
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+I want to learn how to professionally and powerfully tell a story through data. After graduation, I plan to work at the intersection of data, public policy, and international development using visualization to drive impact for women and girls globally.
 
 1. List item #1
 2. List item #2
