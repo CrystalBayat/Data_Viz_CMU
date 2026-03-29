@@ -22,16 +22,6 @@ You can keep this section for stuff from in-class demos or your other work, or r
 ## Final project
 
 
-# Here's a large title (H1)
-## Here's a subtitle (H2)
-### ...and so on (H3)
-
-### Adding images
-
-
-### Setting up a separate page
-
-
 ## References
 
 
