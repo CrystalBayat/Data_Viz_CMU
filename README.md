@@ -13,7 +13,7 @@ I want to learn how to professionally and powerfully tell a story through data. 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing government Debt](visualizing-government-debt)
 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
