@@ -1,3 +1,5 @@
+| [home page](https://crystalbayat.github.io/Data_Viz_CMU/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+
 # Portfolio
 My data visualization work for 94-870 at CMU
 
