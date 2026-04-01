@@ -38,14 +38,3 @@ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';     
 
 ## References and AI Acknowledgement: 
 I used the OECD dataset provided in the assignment (General Government Debt, % of GDP, 2007–2024). I also referenced the Datawrapper article on choosing colors for data visualization and the "Make Grey Your Best Friend" article from Visualising Data. I used Claude (AI) to help me brainstorm visualization ideas. 
-
-
-## Final project
-
-
-## References
-
-
-## AI acknowledgements
-
-
