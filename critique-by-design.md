@@ -9,16 +9,30 @@ I chose this visualization because gold prices experienced a dramatic crash in M
 
 
 
-
-
-
 Image Source: BullionVault, March 2026
 
 
-## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+## Step two: The Critique
+Using Stephen Few's Data Visualization Effectiveness Profile, I evaluated the chart across seven categories. Here are the key findings:
+What worked well: The chart uses a familiar line chart format that most people understand immediately (Intuitiveness: 7/10). The current price is clearly labeled, and the general trend is easy to follow. For a quick price check, the chart does its job.
+
+What didn't work well: The chart has several issues that limit its effectiveness:
+Completeness (4/10): There are no annotations explaining the big price drop around March 19-23. The news article below the chart mentions the Iran war and Turkey selling gold reserves, but none of that context appears on the chart itself.
+
+Truthfulness (5/10): The y-axis doesn't start at zero, which makes a roughly 15% price decline look like an even more dramatic crash. While truncated axes are common in financial charts, the visual impression is more alarming than the data warrants.
+
+Perceptibility (5/10): The large "BullionVault" watermark sits directly on top of the data, making it harder to read. Dual y-axes (USD/kg and USD/oz) add unnecessary cognitive load.
+
+Aesthetics (4/10): The watermark, cluttered toolbar, and low-contrast gold/yellow color scheme all hurt the visual presentation.
+
+Engagement (4/10): The chart doesn't tell a story. There are no annotations, narrative elements, or context that would draw a viewer in.
+
+Comparing Few's method to Good Charts: Few's method is more systematic. It forces you to evaluate specific measurable qualities one at a time. The Good Charts method focuses more on whether the chart successfully communicates an idea. I found that Few's method was better for identifying technical problems (truncated axes, poor contrast), while Good Charts was better for thinking about the overall story. One thing missing from Few's method is a category for storytelling or narrative whether the chart helps the audience understand not just the data but the meaning behind it.
+
 
 ## Step three: Sketch a solution
+
+![Original Gold Chart](65329.jpg)
 
 ## Step four: Test the solution
 
