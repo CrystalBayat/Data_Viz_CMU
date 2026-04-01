@@ -4,7 +4,7 @@
 My data visualization work for 94-870 at CMU
 
 # About me
-A passionate woman from Afghanistan, using data to drive social impact. I love turning complex data into clear, compelling visualizations for non-expert. MSPPM
+A passionate woman from Afghanistan, using data to drive social impact. I love turning complex data into clear and compelling visualizations for non-expert.
 
 # What I hope to learn
 I want to learn how to professionally and powerfully tell a story through data. After graduation, I plan to work at the intersection of data, public policy, and international development using visualization to drive impact for women and girls globally.
@@ -12,7 +12,7 @@ I want to learn how to professionally and powerfully tell a story through data. 
 
 # Portfolio
 
-## Assignment 2: Visualizing government Debt
+## Assignment 2: Visualizing Government Debt
 
 <div class='tableauPlaceholder' id='viz1775008456004' style='position: relative'><noscript><a href='#'><img alt='OECD Countries Spending More Relative To What They Earn ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TS&#47;TSWDAssignmentOECD_17748102150730&#47;OECDCountriesSpendingMoreRelativeToWhatTheyEarn&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TSWDAssignmentOECD_17748102150730&#47;OECDCountriesSpendingMoreRelativeToWhatTheyEarn' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TS&#47;TSWDAssignmentOECD_17748102150730&#47;OECDCountriesSpendingMoreRelativeToWhatTheyEarn&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1775008456004');                    
