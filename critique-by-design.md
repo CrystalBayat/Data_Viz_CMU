@@ -7,6 +7,8 @@ I selected the BullionVault Live Gold Spot Price Chart from MakeoverMonday Week 
 I chose this visualization because gold prices experienced a dramatic crash in March 2026 due to the escalating Iran-Israel conflict, and I wanted to see how well the original chart communicated that story. I noticed right away that while the chart showed the price movement, it offered no context or explanation for why prices were moving - which seemed like a missed opportunity for a financial platform whose users are making buying and selling decisions.
 
 
+<img width="1076" height="612" alt="Screenshot 2026-04-01 at 10 50 52 PM" src="https://github.com/user-attachments/assets/873a3ffe-02a1-4a1e-aeb1-bceccb4ff4a2" />
+
 Image Source: BullionVault, March 2026
 
 
@@ -66,16 +68,18 @@ Clear, descriptive title that tells the viewer what happened before they even lo
 Three annotations marking the key moments: the Iran conflict crash, the lowest point, and the partial recovery, No watermark obscuring the data, Source citation clearly labeled, Clean line chart with minimal visual clutter
 The redesigned chart follows the narrative structure from Chapter 4 of Good Charts: setup (gold prices holding around $5,200), conflict (Iran-Israel conflict causes a crash), and resolution (partial recovery to $4,495).
 
-<div class='tableauPlaceholder' id='viz1775014462186' style='position: relative'><noscript><a href='#'><img alt='Gold prices crash 15% in March 2026 amid Iran conflict ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Go&#47;GoldPricesCrashes15&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='GoldPricesCrashes15&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Go&#47;GoldPricesCrashes15&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'> 
- var divElement = document.getElementById('viz1775014462186');                    
- var vizElement = divElement.getElementsByTagName('object')[0];     
-vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                  
+<div class='tableauPlaceholder' id='viz1775100132678' style='position: relative'><noscript><a href='#'><img alt='Gold prices crash in March 2026 amid Iran conflict ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Go&#47;GoldPricesCrashes&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='GoldPricesCrashes&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Go&#47;GoldPricesCrashes&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
+<script type='text/javascript'>
+ var divElement = document.getElementById('viz1775100132678');
+ var vizElement = divElement.getElementsByTagName('object')[0];
+vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
  var scriptElement = document.createElement('script');
-scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
-vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-Summary
+
+# Summary
 The original BullionVault chart was functional for a quick price check but missed an opportunity to help its audience — investors — understand what was happening and why. By adding annotations, simplifying the layout, and using a descriptive title, the redesigned chart tells the story of March 2026's gold price crash in a way that is both informative and immediately understandable. The biggest lesson from this process was how much impact simple additions like annotations and a clear title can have on turning raw data into a meaningful narrative.
 
 ## AI Usage: 
