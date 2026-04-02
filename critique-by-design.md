@@ -7,8 +7,6 @@ I selected the BullionVault Live Gold Spot Price Chart from MakeoverMonday Week 
 I chose this visualization because gold prices experienced a dramatic crash in March 2026 due to the escalating Iran-Israel conflict, and I wanted to see how well the original chart communicated that story. I noticed right away that while the chart showed the price movement, it offered no context or explanation for why prices were moving - which seemed like a missed opportunity for a financial platform whose users are making buying and selling decisions.
 
 
-
-
 Image Source: BullionVault, March 2026
 
 
