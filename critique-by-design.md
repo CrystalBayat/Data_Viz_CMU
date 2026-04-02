@@ -4,7 +4,7 @@
 ## Step one:
 
 I selected the BullionVault Live Gold Spot Price Chart from MakeoverMonday Week 5, 2026. The chart shows one month of gold prices in March 2026, displayed as a line/area chart with dual y-axes (USD/kg and USD/oz).
-I chose this visualization because gold prices experienced a dramatic crash in March 2026 due to the escalating Iran-Israel conflict, and I wanted to see how well the original chart communicated that story. I noticed right away that while the chart showed the price movement, it offered no context or explanation for why prices were moving — which seemed like a missed opportunity for a financial platform whose users are making buying and selling decisions.
+I chose this visualization because gold prices experienced a dramatic crash in March 2026 due to the escalating Iran-Israel conflict, and I wanted to see how well the original chart communicated that story. I noticed right away that while the chart showed the price movement, it offered no context or explanation for why prices were moving - which seemed like a missed opportunity for a financial platform whose users are making buying and selling decisions.
 
 
 
