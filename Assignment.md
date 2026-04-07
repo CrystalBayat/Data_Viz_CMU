@@ -143,6 +143,7 @@ I feel most confident in my **color palette recommendation** because it came ent
 - OpenAI. (2026). ChatGPT (March 2026 version). [https://chat.openai.com](https://chat.openai.com/)
 
 ---
+## Assignment II
 
 # Gold Spot Price Chart
 ## Step one:
