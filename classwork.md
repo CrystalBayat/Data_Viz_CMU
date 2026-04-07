@@ -1,6 +1,10 @@
 [Home Page](https://crystalbayat.github.io/Data_Viz_CMU/) | [Class Work](https://crystalbayat.github.io/Data_Viz_CMU/classwork) | [Assignment](https://crystalbayat.github.io/Data_Viz_CMU/Assignment) | [Final Project I](https://crystalbayat.github.io/Data_Viz_CMU/final-project-part-one) | [Final Project II](https://crystalbayat.github.io/Data_Viz_CMU/final-project-part-two) | [Final Project III](https://crystalbayat.github.io/Data_Viz_CMU/final-project-part-three)
 
-# Data visualization Assignment 
+
+## Class Work
+This page documents my in-class work, group sessions, and activities from Telling Stories with Data
+
+# Data visualization
 
 # Challenge Exercise: Data visualizations are everywhere!
 
