@@ -105,13 +105,13 @@ Moving it to the left and making it larger would make it much easier to use. Add
 ## Final Synthesized Recommendations
 
 ### Recommendation 1 *(My observation)*
-> **Change the color palette** from five shades of blue to a diverging scale — deep red for lowest access to dark green for highest. This is the most important design problem in the entire chart. A reader should be able to look at this map for five seconds and immediately understand which regions are in crisis.
+> **Change the color palette** from five shades of blue to a diverging scale deep red for lowest access to dark green for highest. This is the most important design problem in the entire chart. A reader should be able to look at this map for five seconds and immediately understand which regions are in crisis.
 
 ### Recommendation 2 *(Synthesis — Me + Copilot)*
-> **Change the ocean background to neutral light gray AND move the legend** to the left side, make the font larger, and add population figures. These two changes work together — a cleaner background makes the country colors easier to read, and a better legend makes those colors easier to understand. Doing one without the other would only solve half the problem.
+> **Change the ocean background to neutral light gray AND move the legend** to the left side, make the font larger, and add population figures. These two changes work together a cleaner background makes the country colors easier to read, and a better legend makes those colors easier to understand. Doing one without the other would only solve half the problem.
 
 ### Recommendation 3 *(Copilot recommendation, extended by me)*
-> **Make the timeline slider more visible** with a clear play button and labeled key years (2000, 2010, 2015), AND connect it to a **dynamic title** that updates as the year changes — for example: *"In 2000, over 1.5 billion people lacked electricity access."* This goes beyond Copilot's suggestion by connecting the animation to the title so the whole chart tells a story of change over time.
+> **Make the timeline slider more visible** with a clear play button and labeled key years (2000, 2010, 2015), AND connect it to a **dynamic title** that updates as the year changes for example: *"In 2000, over 1.5 billion people lacked electricity access."* This goes beyond Copilot's suggestion by connecting the animation to the title so the whole chart tells a story of change over time.
 
 ---
 
@@ -158,7 +158,7 @@ I feel most confident in my **color palette recommendation** because it came ent
 
 
  
-For my redesigned visualization, I chose to create a horizontal bar chart showing the debt-to-GDP ratio for all OECD countries in 2023, three years after the start of the COVID-19 pandemic. I wanted to answer a simple but important question: which countries still owe more than they earn? To make this clear, I used a reference line at 100% of GDP and split the colors at that threshold — orange for countries whose debt exceeds their GDP, and blue for countries below that line. I chose orange and blue because they provide strong contrast and are easy to tell apart, even for viewers with color vision differences. The reference line at 100% gives the reader an instant anchor point, so they do not need to read every number to understand the story. 
+For my redesigned visualization, I chose to create a horizontal bar chart showing the debt-to-GDP ratio for all OECD countries in 2023, three years after the start of the COVID-19 pandemic. I wanted to answer a simple but important question: which countries still owe more than they earn? To make this clear, I used a reference line at 100% of GDP and split the colors at that threshold orange for countries whose debt exceeds their GDP, and blue for countries below that line. I chose orange and blue because they provide strong contrast and are easy to tell apart, even for viewers with color vision differences. The reference line at 100% gives the reader an instant anchor point, so they do not need to read every number to understand the story. 
 I chose a horizontal bar chart because it is easy to read when there are many countries to compare. The country names sit on the left side and the bars extend to the right, which makes it natural to scan from top to bottom and quickly see which countries carry the highest debt. I sorted the bars in descending order so the most indebted countries appear first, drawing attention to Japan, Greece, and Italy right away. I also added the exact debt values at the end of each bar so the reader can get precise numbers without hovering. 
 
 # Government Debt-to-GDP Ratios Across OECD Countries (2007–2023) 
@@ -229,7 +229,7 @@ I showed my wireframe sketches to two people and asked for feedback.
 
 Person 1: student, MSPPM program
 Understood it was a gold price chart right away
-Found the annotations helpful said "I like that it tells me why the price dropped" was confused by sketch 2 (percentage change) — asked what the baseline was suggested adding a data source label
+Found the annotations helpful said "I like that it tells me why the price dropped" was confused by sketch 2 (percentage change) asked what the baseline was suggested adding a data source label
 
 Person 2: student, MISM
 Preferred sketch 1 because it shows actual dollar values investors care about. Said the "loss zone" shading in sketch 2 was useful but felt dramatic
@@ -242,7 +242,7 @@ Design changes based on feedback: I decided to go with the annotated line chart 
 
 ## Step five: build the solution
 Based on my critique and user feedback, I built the final redesign in Tableau. Here are the key changes I made from the original:
-Single y-axis (USD per troy ounce) instead of dual axes — reduces confusion
+Single y-axis (USD per troy ounce) instead of dual axes reduces confusion
 Clear, descriptive title that tells the viewer what happened before they even look at the data
 Three annotations marking the key moments: the Iran conflict crash, the lowest point, and the partial recovery, No watermark obscuring the data, Source citation clearly labeled, Clean line chart with minimal visual clutter
 The redesigned chart follows the narrative structure from Chapter 4 of Good Charts: setup (gold prices holding around $5,200), conflict (Iran-Israel conflict causes a crash), and resolution (partial recovery to $4,495).
@@ -259,7 +259,7 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 
 
 # Summary
-The original BullionVault chart was functional for a quick price check but missed an opportunity to help its audience — investors — understand what was happening and why. By adding annotations, simplifying the layout, and using a descriptive title, the redesigned chart tells the story of March 2026's gold price crash in a way that is both informative and immediately understandable. The biggest lesson from this process was how much impact simple additions like annotations and a clear title can have on turning raw data into a meaningful narrative.
+The original BullionVault chart was functional for a quick price check but missed an opportunity to help its audience investors understand what was happening and why. By adding annotations, simplifying the layout, and using a descriptive title, the redesigned chart tells the story of March 2026's gold price crash in a way that is both informative and immediately understandable. The biggest lesson from this process was how much impact simple additions like annotations and a clear title can have on turning raw data into a meaningful narrative.
 
 ## AI Usage: 
 I used Claude (Anthropic) to help organize my critique responses, clean the raw data file for Tableau. All design decisions and the final Tableau visualization are my own work. 
