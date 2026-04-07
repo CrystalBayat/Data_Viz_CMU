@@ -1,4 +1,4 @@
-| [home page](https://crystalbayat.github.io/Data_Viz_CMU/) | [data viz examples](dataviz-Assignments) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://crystalbayat.github.io/Data_Viz_CMU/) | [Assignment Page](dataviz-Assignments) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Hello! I'm Crystal Bayat
 
