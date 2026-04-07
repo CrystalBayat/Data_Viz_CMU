@@ -2,7 +2,7 @@
 
  Important note: this template includes major elements of Part I
 
-## High-Level Summary
+## High Level Summary
 In 2001, a girl growing up in Kabul had a 6% chance of ever sitting in a classroom. Her younger sister, born in 2010, had a 39% chance. But a girl born in Afghanistan today has almost none.
 This is not just a story about education. It is a story about what a country becomes when it invests in its girls and what it loses when it takes that investment away.
 
@@ -84,8 +84,8 @@ For the opening before/after comparison panel, I will use Datawrapper, which pro
 - Wikipedia. (2026). *Education in Afghanistan.* [https://en.wikipedia.org/wiki/Education_in_Afghanistan](https://en.wikipedia.org/wiki/Education_in_Afghanistan)
 - Wikipedia. (2026). *Economy of Afghanistan.* [https://en.wikipedia.org/wiki/Economy_of_Afghanistan](https://en.wikipedia.org/wiki/Economy_of_Afghanistan)
 - Data for Afghanistan. (2024). *Education data 2002–2022.* [https://dataforafghanistan.org/posts/education/](https://dataforafghanistan.org/posts/education/)
-- World Bank. (2024). *School enrollment, primary, female — Afghanistan.* [https://data.worldbank.org/indicator/SE.PRM.ENRR.FE?locations=AF](https://data.worldbank.org/indicator/SE.PRM.ENRR.FE?locations=AF)
-- World Bank. (2024). *Literacy rate, adult total — Afghanistan.* [https://data.worldbank.org/indicator/SE.ADT.LITR.ZS?locations=AF](https://data.worldbank.org/indicator/SE.ADT.LITR.ZS?locations=AF)
+- World Bank. (2024). *School enrollment, primary, female, Afghanistan.* [https://data.worldbank.org/indicator/SE.PRM.ENRR.FE?locations=AF](https://data.worldbank.org/indicator/SE.PRM.ENRR.FE?locations=AF)
+- World Bank. (2024). *Literacy rate, adult total, Afghanistan.* [https://data.worldbank.org/indicator/SE.ADT.LITR.ZS?locations=AF](https://data.worldbank.org/indicator/SE.ADT.LITR.ZS?locations=AF)
 - UNESCO Institute for Statistics. (2024). *Afghanistan education profile.* [https://uis.unesco.org/en/country/af](https://uis.unesco.org/en/country/af)
 - Macrotrends. (2024). *Afghanistan GDP 2001–2024.* [https://www.macrotrends.net/global-metrics/countries/afg/afghanistan/gdp-gross-domestic-product](https://www.macrotrends.net/global-metrics/countries/afg/afghanistan/gdp-gross-domestic-product)
 
