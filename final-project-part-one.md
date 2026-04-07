@@ -78,8 +78,16 @@ I plan to build this project using Shorthand as the primary presentation platfor
 
 For the opening before/after comparison panel, I will use Datawrapper, which produces clean, publication quality stat comparisons. The final deliverable will be a fully interactive, publicly accessible web story.
 
+
 ## References
-_List any references you used here._
+
+- Wikipedia. (2026). *Education in Afghanistan.* [https://en.wikipedia.org/wiki/Education_in_Afghanistan](https://en.wikipedia.org/wiki/Education_in_Afghanistan)
+- Wikipedia. (2026). *Economy of Afghanistan.* [https://en.wikipedia.org/wiki/Economy_of_Afghanistan](https://en.wikipedia.org/wiki/Economy_of_Afghanistan)
+- Data for Afghanistan. (2024). *Education data 2002–2022.* [https://dataforafghanistan.org/posts/education/](https://dataforafghanistan.org/posts/education/)
+- World Bank. (2024). *School enrollment, primary, female — Afghanistan.* [https://data.worldbank.org/indicator/SE.PRM.ENRR.FE?locations=AF](https://data.worldbank.org/indicator/SE.PRM.ENRR.FE?locations=AF)
+- World Bank. (2024). *Literacy rate, adult total — Afghanistan.* [https://data.worldbank.org/indicator/SE.ADT.LITR.ZS?locations=AF](https://data.worldbank.org/indicator/SE.ADT.LITR.ZS?locations=AF)
+- UNESCO Institute for Statistics. (2024). *Afghanistan education profile.* [https://uis.unesco.org/en/country/af](https://uis.unesco.org/en/country/af)
+- Macrotrends. (2024). *Afghanistan GDP 2001–2024.* [https://www.macrotrends.net/global-metrics/countries/afg/afghanistan/gdp-gross-domestic-product](https://www.macrotrends.net/global-metrics/countries/afg/afghanistan/gdp-gross-domestic-product)
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used AI to help me format and organize my written documentation. All research, data selection, topic choice, story structure, and design decisions are entirely my own.
