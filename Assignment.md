@@ -143,8 +143,10 @@ I feel most confident in my **color palette recommendation** because it came ent
 - OpenAI. (2026). ChatGPT (March 2026 version). [https://chat.openai.com](https://chat.openai.com/)
 
 ---
-## Assignment II
+## Assignment II 
 
+# Working with Tableau: Visualizing Government Debt
+ 
 # After the Pandemic: Which OECD Countries Owe More Than They Earn? (2023)
 
 
@@ -172,9 +174,12 @@ Compared to the heatmap from Part 2, I think this visualization tells a more foc
 # References and AI Acknowledgement: 
 I used the OECD dataset provided in the assignment (General Government Debt, % of GDP, 2007–2024). I also referenced the Datawrapper article on choosing colors for data visualization and the "Make Grey Your Best Friend" article from Visualising Data. I used Claude (AI) to help me brainstorm visualization ideas. 
 
-## Working with Tableau: Visualizing Government Debt
+
+
+## Assignment III
 
 # Gold Spot Price Chart
+
 ## Step one:
 
 I selected the BullionVault Live Gold Spot Price Chart from MakeoverMonday Week 5, 2026. The chart shows one month of gold prices in March 2026, displayed as a line/area chart with dual y-axes (USD/kg and USD/oz).
