@@ -2,7 +2,7 @@
 
 ## Assignment I
 
-# Assignment 1: Critique by Design
+# Critique by Design
 
 **Graphic Selected:** Graphic 2 — Access to Electricity (% of population), World Bank 2023
 
