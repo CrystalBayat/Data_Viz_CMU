@@ -10,7 +10,7 @@ This sculpture looks like a vertical dot plot a simple data visualization where 
 
 ## Controlling Color - Week One (Discussion/Workbook)
 
-<img width="478" height="461" alt="Screenshot 2026-04-06 at 10 53 22 PM" src="https://github.com/user-attachments/assets/43c75a4b-0b78-4266-aed3-6ab0254c2db9" />
+<img width="463" height="385" alt="Screenshot 2026-04-06 at 10 57 19 PM" src="https://github.com/user-attachments/assets/767c227d-e498-4570-9e64-33b38878addf" />
 
 
 Version 1 
