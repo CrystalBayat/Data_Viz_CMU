@@ -1,5 +1,149 @@
 [Home Page](https://crystalbayat.github.io/Data_Viz_CMU/) | [Class Work](https://crystalbayat.github.io/Data_Viz_CMU/classwork) | [Assignment](https://crystalbayat.github.io/Data_Viz_CMU/Assignment) | [Final Project I](https://crystalbayat.github.io/Data_Viz_CMU/final-project-part-one) | [Final Project II](https://crystalbayat.github.io/Data_Viz_CMU/final-project-part-two) | [Final Project III](https://crystalbayat.github.io/Data_Viz_CMU/final-project-part-three)
 
+## Assignment I
+
+# Assignment 1: Critique by Design
+
+**Graphic Selected:** Graphic 2 — Access to Electricity (% of population), World Bank 2023
+
+---
+
+## The Original Graphic
+<img width="593" height="539" alt="Screenshot 2026-04-06 at 10 31 31 PM" src="https://github.com/user-attachments/assets/cdbb0ea3-2ba2-4de2-953e-aef2e7f7812b" />
+
+> **Source:** SDG 7.1.1 Electrification Dataset, World Bank (WB)
+> **Published:** 2023 | **License:** CC BY-4.0
+> [View Original Source](https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?type=shaded&view=map)
+
+
+---
+
+## What I Observed First
+
+The first thing I noticed when I look at this map is **Africa**. Most of the countries in sub-Saharan Africa are shown in very light blue, which means they have the lowest electricity access. My eye goes there right away because it is the region with the lightest color and the most visible difference from the rest of the world.
+
+After that, I look at the legend in the bottom right corner and I see that the lightest color means **less than 22.10%** of the population has electricity. This is a very alarming number, but the chart does not make it feel urgent at all.
+
+I also notice that the ocean color is almost the same blue as some of the country colors, which makes it hard to see where the ocean ends and where a country begins. The title just says *"Access to electricity (% of population)"* which describes the data but does not tell me what I should take away from looking at this map.
+
+
+
+## What I Like
+
+- The **choice to use a map** is right for this kind of data. It helps the reader understand geographic patterns in a way a bar chart or table could not.
+- The **data source is clearly written** at the top — it includes the SDG reference, the World Bank as publisher, the date, and the license. This makes the chart feel trustworthy.
+- The chart has **three views: Line, Bar, and Map** — which gives different types of readers different ways to explore the data.
+
+---
+
+## What I Dislike
+
+- **The color palette** is the biggest problem. All five categories use shades of the same blue, and the middle three shades look almost identical. It is very hard to tell them apart without staring at the legend.
+- **The legend** is very small, placed in the bottom right corner where it overlaps with some countries, and the font is too small to read comfortably.
+- **The ocean background** is a teal blue that looks very similar to the country fill colors, especially for smaller island countries and coastal areas.
+- **No country names or labels** anywhere on the map — a reader who does not know African geography will not be able to identify which countries have the worst electricity access.
+- **The title does not tell a story** — it only describes the data, not what it means.
+- **Typography issues** — the legend font is around 9pt, which is too small. There is no visual hierarchy in the title.
+
+---
+
+## What I Wish I Saw
+
+- A **diverging color scale** — red or orange for low electricity access, green for high access — so a reader immediately feels urgency.
+- A **story-driven title** like: *"Hundreds of millions of people in sub-Saharan Africa still have no electricity in 2023."*
+- A **zoomed-in panel showing Africa** in more detail, since that is where the most important story is.
+- A **larger legend** with population figures — knowing a percentage applies to hundreds of millions of people makes the data feel more real.
+- A **visible play button** on the time slider so readers can watch change from 2000 to 2023.
+
+---
+
+## Three Things I Would Change
+
+### 1. Change the Color Palette
+**I would replace the five shades of blue with a diverging color scale.**
+
+| Range | Old Color | New Color |
+|-------|-----------|-----------|
+| < 22.10% | Light blue | 🔴 Deep red |
+| 22.10 – 40.50% | Light-medium blue | 🟠 Orange |
+| 40.50 – 62.00% | Medium blue | 🟡 Yellow |
+| 62.00 – 76.80% | Medium-dark blue | 🟢 Light green |
+| > 76.80% | Dark blue | 🟢 Dark green |
+
+Using only shades of blue makes the most important differences invisible. A diverging palette from red to green would immediately show which countries are in crisis and which have succeeded.
+
+---
+
+### 2. Rewrite the Title
+**I would change the title from:** *"Access to electricity (% of population)"*
+
+**To:** *"Sub-Saharan Africa and parts of South Asia are the most left behind on electricity access in 2023."*
+
+The current title only describes the structure of the data. A story-driven title helps a non-expert reader understand the point of the map in the first five seconds.
+
+---
+
+### 3. Improve the Legend
+**I would make the legend bigger, move it to the left side, increase font size to at least 14pt, and add population estimates.**
+
+For example: *"> 76.80% — approximately 5.8 billion people"*
+
+Moving it to the left and making it larger would make it much easier to use. Adding population figures would transform the legend from just a color key into a real piece of data that helps the reader understand the scale of the problem.
+
+---
+
+## What Copilot Recommended
+
+| Recommendation | Because |
+|----------------|---------|
+| Change the ocean/background to neutral light gray | The teal-blue ocean is too similar to mid-range country colors, making it hard to distinguish land from water |
+| Add a zoomed-in inset map of sub-Saharan Africa | The full world map compresses Africa into a small space; an inset would let readers clearly see individual countries |
+| Make the time slider larger with a play button and labeled key years (2000, 2010, 2015, 2023) | The thin slider is easy to miss; a play button would make the chart much more engaging |
+
+---
+
+## Final Synthesized Recommendations
+
+### Recommendation 1 *(My observation)*
+> **Change the color palette** from five shades of blue to a diverging scale — deep red for lowest access to dark green for highest. This is the most important design problem in the entire chart. A reader should be able to look at this map for five seconds and immediately understand which regions are in crisis.
+
+### Recommendation 2 *(Synthesis — Me + Copilot)*
+> **Change the ocean background to neutral light gray AND move the legend** to the left side, make the font larger, and add population figures. These two changes work together — a cleaner background makes the country colors easier to read, and a better legend makes those colors easier to understand. Doing one without the other would only solve half the problem.
+
+### Recommendation 3 *(Copilot recommendation, extended by me)*
+> **Make the timeline slider more visible** with a clear play button and labeled key years (2000, 2010, 2015), AND connect it to a **dynamic title** that updates as the year changes — for example: *"In 2000, over 1.5 billion people lacked electricity access."* This goes beyond Copilot's suggestion by connecting the animation to the title so the whole chart tells a story of change over time.
+
+---
+
+## Good Charts Matrix Score
+
+I placed this graphic at approximately **+5 on design execution** and **+6 on contextual awareness.**
+
+- **Contextual awareness is high** because the data comes directly from the World Bank's SDG 7.1.1 tracking system — one of the most credible global sources for development data. The chart clearly cites its source, license, and date.
+- **Design execution is moderately positive** — the chart type and data sourcing are done well, but the color palette, legend, and title still hold it back from being excellent.
+
+> The chart has very strong data but the design does not fully do justice to the story inside it.
+
+---
+
+## Reflection on AI Use
+
+I relied **more on my own observations** for this assignment. The two most important recommendations, changing the color palette and rewriting the title both came from my own reaction when I first looked at the chart.
+
+Copilot's suggestions were helpful for thinking about smaller details like the background color and the time slider, but they were more surface-level fixes. I think of AI as a starting point for thinking, not a final answer, and this assignment confirmed that for me.
+
+I feel most confident in my **color palette recommendation** because it came entirely from my own observation and addresses the root cause of the chart's communication failure.
+
+---
+
+## References
+
+- Berinato, S. (2016). *Good charts: The HBR guide to making smarter, more persuasive data visualizations.*
+- World Bank. (2023). Access to electricity (% of population). SDG 7.1.1 Electrification Dataset. [https://data.worldbank.org](https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS?type=shaded&view=map)
+- OpenAI. (2026). ChatGPT (March 2026 version). [https://chat.openai.com](https://chat.openai.com/)
+
+---
+
 # Gold Spot Price Chart
 ## Step one:
 
