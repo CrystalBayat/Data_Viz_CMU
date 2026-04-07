@@ -20,5 +20,4 @@ My first sketch uses a different color for each year of Afghanistan's GDP growth
 Version 2 
 
 For my redesign, I chose to tell one specific story: when the Taliban took over in August 2021, women lost their jobs at nearly double the rate of men. I used red to highlight women's employment decline (-75%) and gray for men (-48%). Gray is not neutral by accident it pushes men's data into the background so the focus stays on the more alarming number.
-
 I chose a horizontal bar chart because it makes the comparison immediate and easy to read for a non-expert audience. The title does the storytelling, the color confirms it, and the context note at the bottom connects it back to the broader GDP collapse.
