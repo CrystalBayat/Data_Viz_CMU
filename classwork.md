@@ -61,3 +61,14 @@ vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.
 scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
 vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+
+## Challenge Exercise: Data viz redesign! (C4)
+
+<img width="699" height="431" alt="Screenshot 2026-04-06 at 11 34 38 PM" src="https://github.com/user-attachments/assets/6823f270-b6b7-45a6-988a-e1d9ca2cca55" />
+
+
+1. I decided to use a line chart because it is the best chart type for showing how rankings change over time, making it easy for the development team to see trends across 2013 to 2024.
+2. I decided to highlight the top three chart types (Area and line charts, Bar charts, and Tables) in bold colors and set all other lines to gray because these three show the most important story how line charts overtook bar charts, and how tables recently rose to number one.
+
+3. I decided to reverse the Y-axis so that rank 1 appears at the top because this makes the chart more intuitive  the higher a line is on the chart, the more popular that visualization type 
