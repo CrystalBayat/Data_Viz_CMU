@@ -49,9 +49,8 @@ The audience will be called to support organizations working on girls' education
 
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
-
-Text here...
+ >Sketche 1
+![43117](https://github.com/user-attachments/assets/3b42886a-b761-43be-858f-6fb01622ff97)
 
 
 # Primary Data Sources
