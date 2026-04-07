@@ -4,7 +4,7 @@
 
 ## High-Level Summary
 In 2001, a girl growing up in Kabul had a 6% chance of ever sitting in a classroom. Her younger sister, born in 2010, had a 39% chance. But a girl born in Afghanistan today has almost none.
-This is not just a story about education. It is a story about what a country becomes when it invests in its girls — and what it loses when it takes that investment away.
+This is not just a story about education. It is a story about what a country becomes when it invests in its girls and what it loses when it takes that investment away.
 
 Over two decades, Afghanistan rebuilt itself around one quiet revolution: girls going to school. Enrollment grew from fewer than 50,000 girls in 2001 to 3.2 million by 2021. Female youth literacy climbed from 11% to 44%. By 2021, one in three university students was a woman. And as girls learned, the economy grew Afghanistan's GDP rose from $2.8 billion in 2001 to a peak of $20.5 billion in 2014. Education and economic growth moved together, hand in hand.
 
