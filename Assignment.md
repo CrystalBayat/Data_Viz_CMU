@@ -270,6 +270,6 @@ The original BullionVault chart was functional for a quick price check but misse
 I used Claude (Anthropic) to help organize my critique responses, clean the raw data file for Tableau. All design decisions and the final Tableau visualization are my own work. 
 
 ## References: 
-Data source: BullionVault via MakeoverMonday Week 5, 2026.
+Data source: BullionVault via MakeoverMonday.
 
 
