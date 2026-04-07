@@ -1,5 +1,4 @@
-[Home Page](https://crystalbayat.github.io/Data_Viz_CMU/) | [Class Work](classwork) | [Assignment](dataviz-Assignments) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three)
-
+[Home Page](HomePage) | [Class Work](classwork) | [Assignment](Assignment) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three)
 # Hello! I'm Crystal Bayat
 
 I'm a passionate **public policy analyst and women's rights advocate** originally from Afghanistan, currently pursuing my **M.S. in Public Policy and Management** at Carnegie Mellon University's Heinz College. My mission is to use data and technology to improve the lives of women and girls around the world.
