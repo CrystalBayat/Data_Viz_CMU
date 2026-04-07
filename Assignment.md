@@ -213,13 +213,15 @@ Comparing Few's method to Good Charts: Few's method is more systematic. It force
 
 Based on my critique, I focused my redesign on three improvements:  Annotated line chart — A clean line chart with a single y-axis (USD/oz), a descriptive title, and annotations marking the Iran conflict escalation and the subsequent recovery.
 
-Sketch 1
+# Sketch 1
 
-![Wireframe Sketch 1](8965.jpg)
+![IMG_0331](https://github.com/user-attachments/assets/351e43ac-59fc-4c9e-ab74-648a2cadac0c)
 
-Sketch 2
 
-![Original Gold Chart](65329.jpg)
+# Sketch 2
+
+![IMG_0333](https://github.com/user-attachments/assets/c583a962-c0c7-4618-9307-e09f1eae773a)
+
 
 Percentage change chart - Instead of raw price,I changed the percentage from the start of the month. This fixed the truthfulness issue by showing the actual magnitude of the drop with a clear baseline at 0%.
 
