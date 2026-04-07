@@ -76,3 +76,8 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 2. I decided to highlight the top three chart types (Area and line charts, Bar charts, and Tables) in bold colors and set all other lines to gray because these three show the most important story how line charts overtook bar charts, and how tables recently rose to number one.
 
 3. I decided to reverse the Y-axis so that rank 1 appears at the top because this makes the chart more intuitive  the higher a line is on the chart, the more popular that visualization type 
+
+## Part I: In-class critique
+Group Members: Shane, Coraline, Crystal
+
+Today in class, our group discussed which project we want to work on. Our main challenges were narrowing down our ideas, deciding on a clear call to action, finding the right dataset, and choosing the best tools to present our work.
