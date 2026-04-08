@@ -34,8 +34,8 @@ I also notice that the ocean color is almost the same blue as some of the countr
 ## What I Like
 
 - The **choice to use a map** is right for this kind of data. It helps the reader understand geographic patterns in a way a bar chart or table could not.
-- The **data source is clearly written** at the top — it includes the SDG reference, the World Bank as publisher, the date, and the license. This makes the chart feel trustworthy.
-- The chart has **three views: Line, Bar, and Map** — which gives different types of readers different ways to explore the data.
+- The **data source is clearly written** at the top it includes the SDG reference, the World Bank as publisher, the date, and the license. This makes the chart feel trustworthy.
+- The chart has **three views: Line, Bar, and Map** which gives different types of readers different ways to explore the data.
 
 ---
 
@@ -45,8 +45,8 @@ I also notice that the ocean color is almost the same blue as some of the countr
 - **The legend** is very small, placed in the bottom right corner where it overlaps with some countries, and the font is too small to read comfortably.
 - **The ocean background** is a teal blue that looks very similar to the country fill colors, especially for smaller island countries and coastal areas.
 - **No country names or labels** anywhere on the map — a reader who does not know African geography will not be able to identify which countries have the worst electricity access.
-- **The title does not tell a story** — it only describes the data, not what it means.
-- **Typography issues** — the legend font is around 9pt, which is too small. There is no visual hierarchy in the title.
+- **The title does not tell a story** it only describes the data, not what it means.
+- **Typography issues** the legend font is around 9pt, which is too small. There is no visual hierarchy in the title.
 
 ---
 
@@ -55,7 +55,7 @@ I also notice that the ocean color is almost the same blue as some of the countr
 - A **diverging color scale** — red or orange for low electricity access, green for high access — so a reader immediately feels urgency.
 - A **story-driven title** like: *"Hundreds of millions of people in sub-Saharan Africa still have no electricity in 2023."*
 - A **zoomed-in panel showing Africa** in more detail, since that is where the most important story is.
-- A **larger legend** with population figures — knowing a percentage applies to hundreds of millions of people makes the data feel more real.
+- A **larger legend** with population figures knowing a percentage applies to hundreds of millions of people makes the data feel more real.
 - A **visible play button** on the time slider so readers can watch change from 2000 to 2023.
 
 ---
@@ -122,8 +122,8 @@ Moving it to the left and making it larger would make it much easier to use. Add
 
 I placed this graphic at approximately **+5 on design execution** and **+6 on contextual awareness.**
 
-- **Contextual awareness is high** because the data comes directly from the World Bank's SDG 7.1.1 tracking system — one of the most credible global sources for development data. The chart clearly cites its source, license, and date.
-- **Design execution is moderately positive** — the chart type and data sourcing are done well, but the color palette, legend, and title still hold it back from being excellent.
+- **Contextual awareness is high** because the data comes directly from the World Bank's SDG 7.1.1 tracking system one of the most credible global sources for development data. The chart clearly cites its source, license, and date.
+- **Design execution is moderately positive** the chart type and data sourcing are done well, but the color palette, legend, and title still hold it back from being excellent.
 
 > The chart has very strong data but the design does not fully do justice to the story inside it.
 
@@ -214,7 +214,7 @@ Comparing Few's method to Good Charts: Few's method is more systematic. It force
 
 ## Step three: Sketch a solution
 
-Based on my critique, I focused my redesign on three improvements:  Annotated line chart — A clean line chart with a single y-axis (USD/oz), a descriptive title, and annotations marking the Iran conflict escalation and the subsequent recovery.
+Based on my critique, I focused my redesign on three improvements:  Annotated line chart A clean line chart with a single y-axis (USD/oz), a descriptive title, and annotations marking the Iran conflict escalation and the subsequent recovery.
 
 # Sketch 1
 
