@@ -58,6 +58,8 @@ The audience will be called to support organizations working on girls' education
 >Sketch 3
 ![96023](https://github.com/user-attachments/assets/f2491644-d12f-47c5-bef3-286f4dc5a344)
 
+ >Sketch 4
+![18706](https://github.com/user-attachments/assets/947d100b-d737-48ad-a39e-249545fca695)
 
 
 # Primary Data Sources
