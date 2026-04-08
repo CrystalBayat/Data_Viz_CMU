@@ -3,9 +3,9 @@
 
 This page documents my assignments and critques from Telling Stories with Data
 
-## Assignment I
+# Assignment I
 
-# Critique by Design
+## Critique by Design
 
 **Graphic Selected:** Graphic 2:  Access to Electricity (% of population), World Bank 2023
 
@@ -146,11 +146,11 @@ I feel most confident in my **color palette recommendation** because it came ent
 - OpenAI. (2026). ChatGPT (March 2026 version). [https://chat.openai.com](https://chat.openai.com/)
 
 ---
-## Assignment II 
+# Assignment II 
 
-# Working with Tableau: Visualizing Government Debt
+## Working with Tableau: Visualizing Government Debt
  
-# After the Pandemic: Which OECD Countries Owe More Than They Earn? (2023)
+## After the Pandemic: Which OECD Countries Owe More Than They Earn? (2023)
 
 
 <div class='tableauPlaceholder' id='viz1775531663915' style='position: relative'><noscript><a href='#'><img alt='After the Pandemic: Which OECD Countries Owe More Than They Earn? (2023) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;Final_Version_Assignment_DV_2_2&#47;Part3Assignment&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Final_Version_Assignment_DV_2_2&#47;Part3Assignment' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;Final_Version_Assignment_DV_2_2&#47;Part3Assignment&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
@@ -164,7 +164,7 @@ I feel most confident in my **color palette recommendation** because it came ent
 For my redesigned visualization, I chose to create a horizontal bar chart showing the debt-to-GDP ratio for all OECD countries in 2023, three years after the start of the COVID-19 pandemic. I wanted to answer a simple but important question: which countries still owe more than they earn? To make this clear, I used a reference line at 100% of GDP and split the colors at that threshold orange for countries whose debt exceeds their GDP, and blue for countries below that line. I chose orange and blue because they provide strong contrast and are easy to tell apart, even for viewers with color vision differences. The reference line at 100% gives the reader an instant anchor point, so they do not need to read every number to understand the story. 
 I chose a horizontal bar chart because it is easy to read when there are many countries to compare. The country names sit on the left side and the bars extend to the right, which makes it natural to scan from top to bottom and quickly see which countries carry the highest debt. I sorted the bars in descending order so the most indebted countries appear first, drawing attention to Japan, Greece, and Italy right away. I also added the exact debt values at the end of each bar so the reader can get precise numbers without hovering. 
 
-# Government Debt-to-GDP Ratios Across OECD Countries (2007–2023) 
+## Government Debt-to-GDP Ratios Across OECD Countries (2007–2023) 
 
 <div class='tableauPlaceholder' id='viz1775531798635' style='position: relative'><noscript><a href='#'><img alt='Government Debt-to-GDP Ratios Across OECD Countries (2007–2023) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;Final_Version_Assignment_DV_2&#47;Heatmap&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Final_Version_Assignment_DV_2&#47;Heatmap' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;Final_Version_Assignment_DV_2&#47;Heatmap&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    
  var divElement = document.getElementById('viz1775531798635');                    
@@ -174,7 +174,7 @@ I chose a horizontal bar chart because it is easy to read when there are many co
 
 Compared to the heatmap from Part 2, I think this visualization tells a more focused story. The heatmap is useful for seeing patterns across many years, but it is dense and hard to pull out one clear message. My bar chart focuses on a single year and a single question, which makes it easier for the viewer to walk away with a clear takeaway: in 2023, ten OECD countries still owed more than they earned in a year, with Japan leading at 228% of GDP.
 
-# References and AI Acknowledgement: 
+## References and AI Acknowledgement: 
 I used the OECD dataset provided in the assignment (General Government Debt, % of GDP, 2007–2024). I also referenced the Datawrapper article on choosing colors for data visualization and the "Make Grey Your Best Friend" article from Visualising Data. I used Claude (AI) to help me brainstorm visualization ideas. 
 
 
@@ -216,12 +216,12 @@ Comparing Few's method to Good Charts: Few's method is more systematic. It force
 
 Based on my critique, I focused my redesign on three improvements:  Annotated line chart A clean line chart with a single y-axis (USD/oz), a descriptive title, and annotations marking the Iran conflict escalation and the subsequent recovery.
 
-# Sketch 1
+ >Sketch 1
 
 ![IMG_0331](https://github.com/user-attachments/assets/351e43ac-59fc-4c9e-ab74-648a2cadac0c)
 
 
-# Sketch 2
+ >Sketch 2
 
 ![IMG_0333](https://github.com/user-attachments/assets/c583a962-c0c7-4618-9307-e09f1eae773a)
 
@@ -263,7 +263,7 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
 
-# Summary
+## Summary
 The original BullionVault chart was functional for a quick price check but missed an opportunity to help its audience investors understand what was happening and why. By adding annotations, simplifying the layout, and using a descriptive title, the redesigned chart tells the story of March 2026's gold price crash in a way that is both informative and immediately understandable. The biggest lesson from this process was how much impact simple additions like annotations and a clear title can have on turning raw data into a meaningful narrative.
 
 ## AI Usage: 
