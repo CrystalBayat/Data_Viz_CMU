@@ -7,7 +7,7 @@ This page documents my assignments and critques from Telling Stories with Data
 
 # Critique by Design
 
-**Graphic Selected:** Graphic 2 — Access to Electricity (% of population), World Bank 2023
+**Graphic Selected:** Graphic 2:  Access to Electricity (% of population), World Bank 2023
 
 ---
 
