@@ -55,6 +55,10 @@ The audience will be called to support organizations working on girls' education
  >Sketch 2
  ![82633](https://github.com/user-attachments/assets/029f0819-6e68-440a-986d-e5678f4dde08)
 
+>Sketch 3
+![96023](https://github.com/user-attachments/assets/f2491644-d12f-47c5-bef3-286f4dc5a344)
+
+
 
 # Primary Data Sources
 The core datasets for this project come from three publicly accessible sources. The World Bank Open Data portal provides Afghanistan-specific data on female school enrollment (primary and secondary), female literacy rates, and GDP from 2001 to the present. This is the most reliable and internationally comparable source available and will be the backbone of all three main visualizations in this project.
