@@ -99,4 +99,4 @@ For the opening before/after comparison panel, I will use Datawrapper, which pro
 - Macrotrends. (2024). *Afghanistan GDP 2001–2024.* [https://www.macrotrends.net/global-metrics/countries/afg/afghanistan/gdp-gross-domestic-product](https://www.macrotrends.net/global-metrics/countries/afg/afghanistan/gdp-gross-domestic-product)
 
 ## AI acknowledgements
-I used AI to help me format and organize my written documentation. All research, data selection, topic choice, story structure, and design decisions are entirely my own.
+I used AI to help me organize my written documentation. All research, data selection, topic choice, story structure, and design decisions are entirely my own.
