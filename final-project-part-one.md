@@ -15,7 +15,7 @@ This project tells that story in two clear phases: what Afghanistan gained when 
 ## Project Structure & Story Arc
 # One Sentence Summary
 
-Afghanistan's two decades of progress — in girls' education and economic growth — collapsed within a single year of the Taliban's return, proving that educating girls is not charity, it is economic infrastructure.
+Afghanistan's two decades of progress in girls' education and economic growth — collapsed within a single year of the Taliban's return, proving that educating girls is not charity, it is economic infrastructure.
 
 # User Stories
 
@@ -67,7 +67,7 @@ The core datasets for this project come from three publicly accessible sources. 
 
 The UNESCO Institute for Statistics (UIS) provides detailed literacy rate data broken down by gender and age group for Afghanistan, including the female youth literacy rate that rose from 11% in 2001 to 44% by 2021. This dataset allows me to show precisely how the post-2001 rebuilding effort improved female literacy and how those gains are now at risk of reversing.
 
-The Data for Afghanistan portal (dataforafghanistan.org) provides national-level data on school enrollment and government education spending as a percentage of GDP from 2002 to 2022, sourced directly from Afghanistan's National Statistics and Information Authority and UNESCO. This dataset is especially valuable because it captures the full arc of the story — the rise from 2002 to 2019 and the sharp decline after 2021.
+The Data for Afghanistan portal (dataforafghanistan.org) provides national-level data on school enrollment and government education spending as a percentage of GDP from 2002 to 2022, sourced directly from Afghanistan's National Statistics and Information Authority and UNESCO. This dataset is especially valuable because it captures the full arc of the story the rise from 2002 to 2019 and the sharp decline after 2021.
 
 # How I Plan to Use the Data
 The World Bank GDP data will be placed alongside the female enrollment data to show the two phases clearly growth during 2001–2021 and collapse after 2021. The UNESCO literacy data will power the bar chart showing progress over time. The Data for Afghanistan enrollment numbers will be used for the main enrollment line chart. All three datasets together will tell the complete before and after story across every visualization in the project.
