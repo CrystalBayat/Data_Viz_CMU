@@ -2,13 +2,14 @@
 
 
 ## Class Work
-This page documents my in-class work, group sessions, and activities from Telling Stories with Data
+This page documents my in class work, group sessions, and activities from Telling Stories with Data
 
 # Data visualization
 
 # Challenge Exercise: Data visualizations are everywhere!
 
 <img width="390" height="529" alt="Screenshot 2026-04-06 at 9 36 46 PM" src="https://github.com/user-attachments/assets/395a351b-6518-46dd-b06c-d25e6205becd" />
+
 This sculpture looks like a vertical dot plot a simple data visualization where dots are placed along a vertical line to show values from low to high. Each human figure on the pole represents a data point, and as they climb higher, they show an upward trend. Just like in a chart where higher position means a bigger value, the figures climbing toward the sky represent growth and progress over time.
 
 
@@ -39,7 +40,7 @@ Team members : Drucella Garcia, Emma Hoppough, Crystal Bayat.
 I noticed the original chart was too simple in a way that created confusion rather than clarity. The missing axis labels and unexplained colors made it impossible to understand without extra context. My redesign adds a clear headline, proper axis labels, and horizontal bars for easier reading.
 
 Y-axis now clearly says (% deviation from historical average)
-Colors are explained -  orange = above average (bubble risk), blue = below average
+Colors are explained orange = above average (bubble risk), blue = below average
 Country names are horizontal and easy to read
 Headline and subtitle tell the full story clearly
 
