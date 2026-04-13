@@ -273,3 +273,18 @@ I used Claude (Anthropic) to help organize my critique responses, clean the raw 
 Data source: BullionVault via MakeoverMonday.
 
 
+
+# Assignment
+
+## Choosing Chart Types - Week Four (Discussion/Workbook)
+
+### Option 2
+
+I picked option 2 of this assignemnt. I chose a stacked horizontal bar chart because it does two things at once. It shows the total number of days off each country gives, and it also breaks that total down into paid leave days and public holidays. This makes it easy to compare
+countries side by side without losing the detail of what makes up each number.
+
+What made this chart work was the decision to highlight the USA in red. Every other country uses blue, so the USA bar stands out immediately without needing to read the labels.I also added a dashed line to separate the USA from the rest, which makes the gap feel even more dramatic. The most helpful prompt I used was: "Highlight the USA and compare it to the top 10 countries, using a stacked bar to show paid leave vs. public holidays separately." That one prompt changed the whole direction of the chart from a generic ranked list into
+something that actually tells a story.
+
+ >SKETCH 1 - RANKED BAR CHART (TOP 10)
+<img width="639" height="384" alt="Screenshot 2026-04-13 at 11 20 45 AM" src="https://github.com/user-attachments/assets/960c9330-2232-481c-ab32-cf9b53741735" />
