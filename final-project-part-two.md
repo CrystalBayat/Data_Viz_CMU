@@ -67,6 +67,7 @@ WHAT WOULD YOU CHANGE?
 
 "The global evidence section feels a little disconnected from the Afghanistan story. I'd weave those statistics into the Afghanistan sections rather than putting them all in one block at the end."
 
+
 ANYTHING MISSING?
 
 "I didn't know what Hope for Her International was before this. One sentence introducing the organization earlier in the story would help — before the call to action."
@@ -85,7 +86,10 @@ Three individuals were interviewed using a consistent script. Each was shown the
 | Is the call to action clear and compelling? | "Yes. I would share this with colleagues. The framing as economic infrastructure rather than charity is exactly the right language." | "This doesn't feel like an advocacy piece it feels like evidence. That distinction matters enormously for my board." | Good, but needs one sentence of context about Hope for Her International earlier in the story. |
 | Is there anything missing? | Nothing major. The structure covers everything needed for a policy audience. | A recovery section showing what happened in similar countries after education disruptions. | More context about Hope for Her International before the call to action. |
 
+
+
 ## Key findings summary
+
 
 **Consistent across all three interviews:**
 - The before/after structure and August 2021 turning point were immediately clear to every interviewee with no explanation needed
@@ -93,9 +97,11 @@ Three individuals were interviewed using a consistent script. Each was shown the
 - All three independently asked to see enrollment and GDP on the same chart rather than two separate visuals
 - The "economic infrastructure, not charity" framing was praised as the right language for a policy audience
 
+
 **Divergent observations:**
 - Interviewee 2 flagged the need to define "female youth literacy" precisely interviewees 1 and 3 did not raise this concern
 - Interviewee 3 suggested restructuring the global evidence section interviewees 1 and 2 did not comment on this
+
 
 ## Changes planned for Part III
 1. Build a dual-axis line chart showing female enrollment and GDP together (2001–2025) with a vertical marker at August 2021
@@ -103,6 +109,7 @@ Three individuals were interviewed using a consistent script. Each was shown the
 3. Introduce Hope for Her International one sentence earlier in the story before the call to action
 4. Add a footnote defining "female youth literacy" as UNESCO ages 15–24
 5. Integrate global comparison statistics into the Afghanistan sections rather than a separate block
+
 
 ## Identified changes for Part III
 
@@ -132,7 +139,10 @@ The visual direction for this project draws on the aesthetic of high-impact poli
 
 The overall tone is restrained, credible, and evidence-forward designed to feel like a research brief, not an advocacy campaign.
 
+
+
 ### Persona
+
 
 **Persona 1: The Policymaker**
 Name: Farrukh (composite, not a real person)
@@ -140,6 +150,7 @@ Role: Senior advisor at an international development organization
 Goal: Needs clear, citable evidence to make the case for education investment in conflict-affected countries internally
 Frustration: Most advocacy materials are too emotional and lack rigorous data sourcing
 What this story gives them: A data-first narrative with World Bank and UNESCO citations they can reference directly in policy documents
+
 
 **Persona 2: The Donor**
 Name: Margaret (composite, not a real person)
@@ -149,6 +160,7 @@ Frustration: Hard to find stories that connect education outcomes directly to ec
 What this story gives them: A clear before/after economic case with specific numbers and a credible organization to fund
 
 ---
+
 
 ## References
 
@@ -164,6 +176,7 @@ What this story gives them: A clear before/after economic case with specific num
 - Wikipedia. (2026). Economy of Afghanistan. https://en.wikipedia.org/wiki/Economy_of_Afghanistan
 
 ---
+
 
 ## AI acknowledgements
 
