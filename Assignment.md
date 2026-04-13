@@ -286,5 +286,35 @@ countries side by side without losing the detail of what makes up each number.
 What made this chart work was the decision to highlight the USA in red. Every other country uses blue, so the USA bar stands out immediately without needing to read the labels.I also added a dashed line to separate the USA from the rest, which makes the gap feel even more dramatic. The most helpful prompt I used was: "Highlight the USA and compare it to the top 10 countries, using a stacked bar to show paid leave vs. public holidays separately." That one prompt changed the whole direction of the chart from a generic ranked list into
 something that actually tells a story.
 
+
  >SKETCH 1 - RANKED BAR CHART (TOP 10)
+
 <img width="639" height="384" alt="Screenshot 2026-04-13 at 11 20 45 AM" src="https://github.com/user-attachments/assets/960c9330-2232-481c-ab32-cf9b53741735" />
+
+The red bar for USA shows how far behind workers are compared to other countries. Simple but powerful.
+
+
+
+ >SKETCH 2 - STACKED BAR CHART BY REGION
+
+<img width="669" height="341" alt="Screenshot 2026-04-13 at 9 12 57 AM" src="https://github.com/user-attachments/assets/cbdc9ec5-dc99-49bc-b893-f9066db65c2d" />
+
+Stacked bars show both the total AND the breakdown. The USA bar stands out immediately.
+
+
+ >SKETCH 3 — DUMBBELL CHART (TOP 5 VS. USA)
+
+<img width="696" height="309" alt="Screenshot 2026-04-13 at 9 14 48 AM" src="https://github.com/user-attachments/assets/9e49b044-87a3-45aa-a1ae-22537f4334fa" />
+
+The dumbbell chart makes the gap dramatic and personal. Every country is 30+ days ahead of the USA.
+
+
+### Acknowledgment
+I used Microsoft Copilot to generate the initial Python code and refine the design through prompts. I then ran and adjusted the final code in Google Colab.
+
+
+### Data source:
+https://data.world/makeovermonday/2022w50
+
+### Original visualization:
+https://resume.io/blog/which-country-gets-the-most-paid-vacation-days
