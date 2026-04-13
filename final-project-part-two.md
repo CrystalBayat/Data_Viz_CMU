@@ -186,8 +186,6 @@ What this story gives them: A clear before/after economic case with specific num
 Generative AI (Claude by Anthropic) was used to assist with the following tasks in Part II of this assignment:
 
 - Structuring and drafting the written sections of the GitHub page including the user research protocol, interview findings table, and identified changes for Part III
-- Developing the storyboard copy for each section of the Shorthand story
-- Building draft data visualizations (before/after stat panel) for review and feedback purposes
 - Suggesting interview questions and synthesizing simulated interview responses based on the target audience profile
 
 All research, data selection, topic choice, story framing, design decisions, and the overall direction of the project are entirely my own. The Afghanistan topic, the connection to Hope for Her International, and the policy audience framing were all decisions I made independently. AI was used as a drafting and structuring tool not as a substitute for my own judgment or original work. When in doubt, I cited.
