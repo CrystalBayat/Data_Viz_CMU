@@ -18,59 +18,62 @@ Text here!
 
 WHAT IS THE MAIN MESSAGE YOU TAKE AWAY?
 
-"The story is clear, girls' education and economic growth are connected, and removing one destroys the other. I understood it immediately."
+ >"The story is clear, girls' education and economic growth are connected, and removing one destroys the other. I understood it immediately."
 
 IS ANYTHING CONFUSING OR UNCLEAR?
 
-"Not confusing, but I wanted the GDP and enrollment data on the same chart. Seeing them move together and collapse together — would be more convincing than two separate visuals."
+ >"Not confusing, but I wanted the GDP and enrollment data on the same chart. Seeing them move together and collapse together — would be more convincing than two separate visuals."
 
 IS THE AUGUST 2021 TURNING POINT CLEAR?
 
-"Very clear. The before/after structure works well. The dark dividing line between the two phases is effective."
+ >"Very clear. The before/after structure works well. The dark dividing line between the two phases is effective."
 
 WHAT WOULD MAKE THIS MORE CREDIBLE FOR YOUR FIELD?
 
-"Cite the World Bank directly on the chart labels, not just in the footer. Policy audiences trust named sources more than footnotes."
+>"Cite the World Bank directly on the chart labels, not just in the footer. Policy audiences trust named sources more than footnotes."
+
 IS THE CALL TO ACTION COMPELLING?
 
-"Yes. I would share this with colleagues. The framing as economic infrastructure rather than charity is exactly the right language for this audience."
+>"Yes. I would share this with colleagues. The framing as economic infrastructure rather than charity is exactly the right language for this audience."
 
 ### Interviewee 2
 
 WHAT IS THE MAIN MESSAGE YOU TAKE AWAY?
 
-"That the Taliban's takeover didn't just harm girls it harmed the entire economy. The data makes that link undeniable."
+ >"That the Taliban's takeover didn't just harm girls it harmed the entire economy. The data makes that link undeniable."
 
 IS ANYTHING CONFUSING OR UNCLEAR?
 
-"I wasn't sure what 'female youth literacy' meant exactly is it girls under 18, or a broader age group? A small definition would help for specialist readers."
+ >"I wasn't sure what 'female youth literacy' meant exactly is it girls under 18, or a broader age group? A small definition would help for specialist readers."
 
 WHAT WOULD YOU CHANGE ABOUT THE VISUALIZATIONS?
 
-"The color coding is excellent green and red on black is immediately readable. I would keep that. What I'd add is a brief section on what recovery has looked like in comparable countries, to show the path forward is real."
+ >"The color coding is excellent green and red on black is immediately readable. I would keep that. What I'd add is a brief section on what recovery has looked like in comparable countries, to show the path forward is real."
 
 IS THE CALL TO ACTION COMPELLING?
 
-"This doesn't feel like an advocacy piece it feels like evidence. That distinction matters enormously for how I would use it internally with my board."
+ >"This doesn't feel like an advocacy piece it feels like evidence. That distinction matters enormously for how I would use it internally with my board."
 
 ### Interviewee 3
 
 WHAT IS THE MAIN MESSAGE YOU TAKE AWAY?
 
-"One policy decision reversed twenty years of progress. The data is the argument you don't need words to make the case."
+ >"One policy decision reversed twenty years of progress. The data is the argument you don't need words to make the case."
 
 IS THE BEFORE/AFTER STRUCTURE CLEAR?
 
-"Very. Green for growth, red for collapse — you don't even need to read the labels to understand the direction."
+ >"Very. Green for growth, red for collapse — you don't even need to read the labels to understand the direction."
 
 WHAT WOULD YOU CHANGE?
 
-"The global evidence section feels a little disconnected from the Afghanistan story. I'd weave those statistics into the Afghanistan sections rather than putting them all in one block at the end."
+ >"The global evidence section feels a little disconnected from the Afghanistan story. I'd weave those statistics into the Afghanistan sections rather than putting them all in one block at the end."
 
 
 ANYTHING MISSING?
 
-"I didn't know what Hope for Her International was before this. One sentence introducing the organization earlier in the story would help — before the call to action."
+ >"I didn't know what Hope for Her International was before this. One sentence introducing the organization earlier in the story would help — before the call to action."
+
+
 
 ## Interview findings
 
