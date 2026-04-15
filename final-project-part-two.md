@@ -1,11 +1,187 @@
 [Home Page](https://crystalbayat.github.io/Data_Viz_CMU/) | [Class Work](https://crystalbayat.github.io/Data_Viz_CMU/classwork) | [Assignment](https://crystalbayat.github.io/Data_Viz_CMU/Assignment) | [Final Project I](https://crystalbayat.github.io/Data_Viz_CMU/final-project-part-one) | [Final Project II](https://crystalbayat.github.io/Data_Viz_CMU/final-project-part-two) | [Final Project III](https://crystalbayat.github.io/Data_Viz_CMU/final-project-part-three) 
 
-# Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-Text here!
+# Final Project Part II: 
+##Wireframes, Storyboards, and User Research
 
+
+## Shorthand Draft Story
+
+**[View the complete Shorthand draft story here → https://preview.shorthand.com/mq2POZND79PVWU55](https://preview.shorthand.com/mq2POZND79PVWU55)**
 # User research 
+
+
+---
+
+## Project Overview
+
+**Title:** The Economic Case for Girls' Education in Afghanistan
+
+**One-sentence summary:** Afghanistan's twenty years of progress in girls' education and economic growth were reversed within a single year of the Taliban's return — proving that educating girls is not charity, it is economic infrastructure.
+
+**Target audience:** Policymakers, institutional donors, and NGO leaders working in international development and conflict-affected education contexts.
+
+**Medium:** Shorthand scrollable web story with data visualizations built in Tableau Public.
+
+**Call to action:** Partner with or fund Hope for Her International at hopeforherinternational.org
+
+---
+
+## Story Outline and Storyboard
+
+The story is structured as a scrollable Shorthand narrative moving from hope to collapse to action. Each section has one job one image, one number, one chart, or one idea.
+
+### Act 1: What Afghanistan Built (2001–2021)
+The story opens with the scale of what was achieved over two decades. 3.2 million girls in school. Female youth literacy rising from 11% to 44%. GDP growing from $2.8 billion to $19.9 billion. The dual-axis chart showing enrollment and GDP rising together is the anchor visualization for this section.
+
+### Act 2:  The Turning Point (August 15, 2021)
+A single date. A single policy decision. The Taliban seized Kabul and banned girls from secondary school within weeks, and from universities by December 2022. Full-screen imagery and minimal text let the human cost land before the data arrives.
+
+### Act 3: The Collapse
+GDP fell 28% in a single year. Female youth literacy is projected to drop from 44% back toward 28% by 2025. 800,000 women lost their jobs. The green-to-red GDP line chart and literacy bar chart are the anchor visualizations for this section.
+
+### Act 4: The Path Forward
+Hope for Her International has been working with women and girls across 12 countries for over 10 years. The closing section connects the data story to action — fund, advocate, partner.
+
+---
+
+## Wireframes and Sketches
+
+> **Note:** Hand-drawn sketches for each chart are uploaded to this repository. The images below show the progression from sketch to final Tableau visualization.
+
+---
+
+### Sketch 1 — Before/After Stat Comparison
+
+**Description:** Four stat cards showing the scale of progress from 2001 to 2021. Left side shows the starting point: 50,000 girls in school, 11% literacy, $2.8B GDP. Right side shows the peak: 3.2 million girls, 44% literacy, $19.9B GDP.
+
+![Sketch 1 - Before After Stats](sketch1_before_after.jpg)
+
+**Implemented as:** Shorthand stat card section with green numbers on black background.
+
+---
+
+### Sketch 2 — Dual Axis Line Chart: Girls Enrollment + GDP (2001–2021)
+
+**Description:** Two lines on one chart. Green solid line for girls enrolled (left axis, millions). Gray dashed line for GDP (right axis, billions USD). Both lines move upward together demonstrating the correlation between education investment and economic growth.
+
+- X axis: Year (2001–2021)
+- Y axis left: Girls enrolled (0 to 3.5M)
+- Y axis right: GDP in billions USD ($0B to $22B)
+- Color: Green (#4ade80) for enrollment, gray dashed for GDP
+- Background: Black (#0a0a0a)
+- Source: World Bank Open Data · Macrotrends
+
+![Sketch 2 - Dual Axis Line Chart](sketch2_enrollment_gdp.jpg)
+
+**Final Tableau Visualization — Chart 1:**
+
+<div class="tableauPlaceholder" style="width:100%;margin:20px 0;">
+<iframe
+  title="Education built the economy Afghanistan 2001-2021"
+  src="https://public.tableau.com/views/Book1_17761379516120/GirlsenrollmentandGDProsetogether20012021?:embed=y&:showVizHome=no&:toolbar=no"
+  width="100%"
+  height="500"
+  style="border:none;display:block;"
+  allowfullscreen>
+</iframe>
+</div>
+
+[View on Tableau Public](https://public.tableau.com/views/Book1_17761379516120/GirlsenrollmentandGDProsetogether20012021)
+
+---
+
+### Sketch 3 — GDP Line Chart: Green to Red (2001–2023)
+
+**Description:** A single continuous line showing Afghanistan GDP from 2001 to 2023. The line is green during the growth phase and turns red at August 2021. A vertical red reference line marks the turning point labeled "Taliban Aug 2021."
+
+- X axis: Year (2001–2023)
+- Y axis: GDP in billions USD
+- Color: Green (#4ade80) before 2021, red (#f87171) after
+- Reference line: Red vertical at 2021
+- Background: Black (#0a0a0a)
+- Source: World Bank · Macrotrends
+
+![Sketch 3 - GDP Green to Red](sketch3_gdp_collapse_line.jpg)
+
+**Final Tableau Visualization — Chart 2:**
+
+<div class="tableauPlaceholder" style="width:100%;margin:20px 0;">
+<iframe
+  title="When the Taliban closed classrooms the economy followed"
+  src="https://public.tableau.com/views/GDP_17761769902120/Sheet1?:embed=y&:showVizHome=no&:toolbar=no&publish=yes"
+  width="100%"
+  height="500"
+  style="border:none;display:block;"
+  allowfullscreen>
+</iframe>
+</div>
+
+[View on Tableau Public](https://public.tableau.com/views/GDP_17761769902120/Sheet1)
+
+---
+
+### Sketch 4 — Female Youth Literacy Bar Chart (2001–2025)
+
+**Description:** Four bars showing female youth literacy at key points in time. Each bar is a different color: gray for starting point, gold for progress, green for peak, red for projected reversal.
+
+- Bars: 2001 (11%, gray), 2011 (17%, gold), 2021 (44%, green), 2025 projected (28%, red)
+- X axis: Year
+- Y axis: Literacy rate percentage
+- Labels: Percentage shown on top of each bar
+- Annotation: "(Projected)" label on 2025 bar
+- Background: Black (#0a0a0a)
+- Source: UNESCO Institute for Statistics · World Bank WDI
+
+![Sketch 4 - Literacy Bars](sketch4_literacy_bars.jpg)
+
+**Final Tableau Visualization — Chart 3:**
+
+<div class="tableauPlaceholder" style="width:100%;margin:20px 0;">
+<iframe
+  title="44 percent literacy built over 20 years now reversing"
+  src="https://public.tableau.com/views/literacyrate_17761763986470/Sheet1?:embed=y&:showVizHome=no&:toolbar=no"
+  width="100%"
+  height="500"
+  style="border:none;display:block;"
+  allowfullscreen>
+</iframe>
+</div>
+
+[View on Tableau Public](https://public.tableau.com/views/literacyrate_17761763986470/Sheet1)
+
+---
+
+### Sketch 5 — GDP Collapse Bar Chart (2017–2022)
+
+**Description:** Six bars showing Afghanistan GDP from 2017 to 2022. Four green bars showing stable growth followed by two dramatic red bars showing the collapse after August 2021. The visual contrast makes the story immediately clear without reading any labels.
+
+- Bars: 2017–2020 (green, #4ade80), 2021–2022 (red, #f87171)
+- X axis: Year (2017–2022)
+- Y axis: GDP in billions USD
+- Labels: Dollar value shown on top of each bar
+- Annotation: "−28% in one year" on 2021 bar
+- Background: Black (#0a0a0a)
+- Source: World Bank · Macrotrends
+
+![Sketch 5 - GDP Collapse Bars](sketch5_gdp_collapse_bars.jpg)
+
+**Final Tableau Visualization — Chart 4:**
+
+<div class="tableauPlaceholder" style="width:100%;margin:20px 0;">
+<iframe
+  title="Afghanistan GDP collapse after Taliban takeover"
+  src="https://public.tableau.com/views/Book2_17761805420180/Dashboard1?:embed=y&:showVizHome=no&:toolbar=no&publish=yes"
+  width="100%"
+  height="795"
+  style="border:none;display:block;"
+  allowfullscreen>
+</iframe>
+</div>
+
+[View on Tableau Public](https://public.tableau.com/views/Book2_17761805420180/Sheet1)
+
+---
 
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
