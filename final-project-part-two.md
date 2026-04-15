@@ -223,14 +223,14 @@ The visual direction draws on the aesthetic of high-impact policy publications W
 - Green and red as the only two accent colors encoding progress and collapse
 - Clean serif fonts with generous white space
 
-### Persona 1 — The Policymaker
+### Persona 1:  The Policymaker
 
 **Role:** Senior advisor at an international development organization
 **Goal:** Needs clear citable evidence to make the case for education investment internally
 **Frustration:** Most advocacy materials are too emotional and lack rigorous data sourcing
 **What this story gives them:** A data-first narrative with World Bank and UNESCO citations they can reference directly in policy documents
 
-### Persona 2 — The Donor
+### Persona 2:  The Donor
 
 **Role:** Program officer at a foundation funding women's rights and education globally
 **Goal:** Wants to direct funding where measurable impact is documented
