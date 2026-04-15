@@ -285,21 +285,6 @@ Four individuals were selected to represent the target audience as closely as po
 | Change visualizations? | Build one combined enrollment + GDP chart. | Add one recovery comparison chart. | Integrate global stats into Afghanistan sections. | Color-code axis labels on the dual-axis chart. |
 | Call to action? | "The economic infrastructure framing is exactly the right language." | "This feels like evidence, not advocacy." | "It would land harder if I knew HFHI before reaching it." | "Investment language is exactly right for a research audience." |
 | Anything missing? | Economic cost per year per girl kept out of school. | A recovery comparison section. | More HFHI context before the final section. | Annual economic cost per girl — World Bank has published this figure. |
-
----
-
-## Changes Implemented for Part III
-
-| Finding from user research | Change implemented in Part III |
-|---|---|
-| 3 of 4 wanted enrollment + GDP on same chart | Built dual-axis Chart 1 showing both on one timeline 2001–2021 |
-| All 4 confirmed green/red on black works | Kept color scheme unchanged across all 4 charts |
-| Interviewee 1 — cite sources on chart labels | Added inline source citations in subtitle of every visualization |
-| Interviewee 2 — define "female youth literacy" | Added footnote defining as UNESCO ages 15–24 |
-| Interviewee 3 — introduce HFHI earlier | Added HFHI stats section (25,000+ women, 12 countries) before call to action |
-| Interviewee 3 — integrate global stats | Wove UN Women and World Bank stats into image captions and body text |
-| Interviewee 4 — clarify projected data | Added "(Projected)" annotation prominently on 2025 literacy bar |
-| Interviewees 1 and 4 — economic cost per girl | Added World Bank statistic: each additional year of girls' schooling increases future earnings by up to 10% |
 ---
 
 ## Key Findings
