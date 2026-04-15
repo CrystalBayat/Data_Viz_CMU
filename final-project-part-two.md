@@ -254,10 +254,7 @@ The visual direction draws on the aesthetic of high-impact policy publications W
 
 ## AI Acknowledgment
 
-Claude (Anthropic) was used to assist with story structure, documentation, data visualization planning, Tableau guidance, and drafting throughout Part II. All research, data selection, topic framing, design decisions, interview protocol, and the overall direction are entirely my own.
+Claude (Anthropic) was used to assist with story structure, documentation and drafting throughout Part II. All research, data selection, topic framing, design decisions, interview protocol, and the overall direction are entirely my own.
 
 ---
-
-*Crystal Bayat · MSPPM Candidate · Carnegie Mellon University, Heinz College · Spring 2026*
-*Founder and President, Hope for Her International · hopeforherinternational.org*
 
