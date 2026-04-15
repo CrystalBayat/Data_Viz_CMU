@@ -45,140 +45,203 @@ Hope for Her International has been working with women and girls across 12 count
 
 ---
 
-## Wireframes and Sketches
+<h2>Data Visualizations and Wireframes</h2>
 
+<h2>Wireframes and Sketches</h2>
 
-### Sketch 1 — Before/After Stat Comparison
+<style>
+.sketch-block{background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:24px;margin:28px 0;}
+.sketch-block h3{font-size:16px;font-weight:700;color:#2563eb;margin-bottom:12px;}
+.spec-list{padding-left:20px;margin:12px 0;font-size:14px;color:#374151;}
+.spec-list li{margin:6px 0;}
+.pill{display:inline-block;width:10px;height:10px;border-radius:50%;vertical-align:middle;margin-right:3px;}
+.green-pill{background:#4ade80;}
+.red-pill{background:#f87171;}
+.gray-pill{background:#9ca3af;}
+.gold-pill{background:#f59e0b;}
+.final-label{font-family:'Courier New',monospace;font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:#6b7280;margin:20px 0 8px;}
+.viz-wrap{background:#0a0a0a;border-radius:6px;overflow:hidden;min-height:400px;margin-bottom:8px;}
+.tableau-link{font-family:'Courier New',monospace;font-size:12px;color:#2563eb;text-decoration:none;}
+.tableau-link:hover{text-decoration:underline;}
+.impl-note{font-size:13px;color:#374151;background:#f0fdf4;border-left:3px solid #4ade80;padding:8px 12px;margin-top:12px;}
+.stat-compare{display:grid;grid-template-columns:1fr auto 1fr;gap:16px;align-items:center;margin:16px 0;}
+.stat-side{background:#0a0a0a;border-radius:6px;padding:20px;}
+.side-label{font-family:'Courier New',monospace;font-size:10px;text-transform:uppercase;letter-spacing:.1em;margin-bottom:14px;color:#6b7280;}
+.stat-item{display:flex;align-items:baseline;gap:10px;margin:10px 0;}
+.stat-num{font-family:Georgia,serif;font-size:22px;font-weight:700;}
+.stat-num.green{color:#4ade80;}
+.stat-num.gray{color:#6b7280;}
+.stat-desc{font-size:12px;color:#9ca3af;}
+.stat-arrow{font-size:28px;color:#6b7280;text-align:center;}
+</style>
 
-**Description:** Four stat cards showing the scale of progress from 2001 to 2021. Left side shows the starting point: 50,000 girls in school, 11% literacy, $2.8B GDP. Right side shows the peak: 3.2 million girls, 44% literacy, $19.9B GDP.
-
-![Sketch 1 - Before After Stats](sketch1_before_after.jpg)
-
-**Implemented as:** Shorthand stat card section with green numbers on black background.
-
----
-
-### Sketch 2 — Dual Axis Line Chart: Girls Enrollment + GDP (2001–2021)
-
-**Description:** Two lines on one chart. Green solid line for girls enrolled (left axis, millions). Gray dashed line for GDP (right axis, billions USD). Both lines move upward together demonstrating the correlation between education investment and economic growth.
-
-- X axis: Year (2001–2021)
-- Y axis left: Girls enrolled (0 to 3.5M)
-- Y axis right: GDP in billions USD ($0B to $22B)
-- Color: Green (#4ade80) for enrollment, gray dashed for GDP
-- Background: Black (#0a0a0a)
-- Source: World Bank Open Data · Macrotrends
-
-![Sketch 2 - Dual Axis Line Chart](sketch2_enrollment_gdp.jpg)
-
-**Final Tableau Visualization — Chart 1:**
-
-<div class="tableauPlaceholder" style="width:100%;margin:20px 0;">
-<iframe
-  title="Education built the economy Afghanistan 2001-2021"
-  src="https://public.tableau.com/views/Book1_17761379516120/GirlsenrollmentandGDProsetogether20012021?:embed=y&:showVizHome=no&:toolbar=no"
-  width="100%"
-  height="500"
-  style="border:none;display:block;"
-  allowfullscreen>
-</iframe>
+<!-- SKETCH 1 -->
+<div class="sketch-block">
+<h3>Sketch 1 — Before/After Stat Comparison</h3>
+<p>Four stat cards showing the scale of progress from 2001 to 2021. Starting point vs peak achievement.</p>
+<div class="stat-compare">
+  <div class="stat-side">
+    <div class="side-label">2001 — Starting Point</div>
+    <div class="stat-item"><span class="stat-num gray">50,000</span><span class="stat-desc">Girls in school</span></div>
+    <div class="stat-item"><span class="stat-num gray">11%</span><span class="stat-desc">Female youth literacy</span></div>
+    <div class="stat-item"><span class="stat-num gray">$2.8B</span><span class="stat-desc">GDP</span></div>
+  </div>
+  <div class="stat-arrow">→</div>
+  <div class="stat-side">
+    <div class="side-label">2021 — Peak Progress</div>
+    <div class="stat-item"><span class="stat-num green">3.2M</span><span class="stat-desc">Girls in school</span></div>
+    <div class="stat-item"><span class="stat-num green">44%</span><span class="stat-desc">Female youth literacy</span></div>
+    <div class="stat-item"><span class="stat-num green">$19.9B</span><span class="stat-desc">GDP</span></div>
+  </div>
+</div>
+<p class="impl-note">→ Implemented as: Shorthand stat card section with green numbers on black background.</p>
 </div>
 
-[View on Tableau Public](https://public.tableau.com/views/Book1_17761379516120/GirlsenrollmentandGDProsetogether20012021)
-
----
-
-### Sketch 3 — GDP Line Chart: Green to Red (2001–2023)
-
-**Description:** A single continuous line showing Afghanistan GDP from 2001 to 2023. The line is green during the growth phase and turns red at August 2021. A vertical red reference line marks the turning point labeled "Taliban Aug 2021."
-
-- X axis: Year (2001–2023)
-- Y axis: GDP in billions USD
-- Color: Green (#4ade80) before 2021, red (#f87171) after
-- Reference line: Red vertical at 2021
-- Background: Black (#0a0a0a)
-- Source: World Bank · Macrotrends
-
-![Sketch 3 - GDP Green to Red](sketch3_gdp_collapse_line.jpg)
-
-**Final Tableau Visualization — Chart 2:**
-
-<div class="tableauPlaceholder" style="width:100%;margin:20px 0;">
-<iframe
-  title="When the Taliban closed classrooms the economy followed"
-  src="https://public.tableau.com/views/GDP_17761769902120/Sheet1?:embed=y&:showVizHome=no&:toolbar=no&publish=yes"
-  width="100%"
-  height="500"
-  style="border:none;display:block;"
-  allowfullscreen>
-</iframe>
+<!-- SKETCH 2 + CHART 1 -->
+<div class="sketch-block">
+<h3>Sketch 2 — Dual Axis Line Chart: Girls Enrollment + GDP (2001–2021)</h3>
+<p>Two lines on one chart. Green solid line for girls enrolled (left axis). Gray dashed line for GDP (right axis). Both move upward together demonstrating the correlation between education and economic growth.</p>
+<ul class="spec-list">
+  <li>X axis: Year (2001–2021)</li>
+  <li>Y axis left: Girls enrolled (0 to 3.5M)</li>
+  <li>Y axis right: GDP in billions USD ($0B to $22B)</li>
+  <li><span class="pill green-pill"></span>Green (#4ade80) enrollment · <span class="pill gray-pill"></span>Gray dashed GDP · Background: #0a0a0a</li>
+  <li>Source: World Bank Open Data · Macrotrends</li>
+</ul>
+<p class="final-label">Final Tableau Visualization — Chart 1:</p>
+<div class="viz-wrap">
+  <div class='tableauPlaceholder' id='viz_c1' style='position:relative;width:100%;'>
+    <noscript><a href='#'><img alt='Education built the economy' src='https://public.tableau.com/static/images/Bo/Book1_17761379516120/GirlsenrollmentandGDProsetogether20012021/1_rss.png' style='border:none;width:100%'/></a></noscript>
+    <object class='tableauViz' style='display:none;'>
+      <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F'/>
+      <param name='embed_code_version' value='3'/>
+      <param name='site_root' value=''/>
+      <param name='name' value='Book1_17761379516120/GirlsenrollmentandGDProsetogether20012021'/>
+      <param name='tabs' value='no'/><param name='toolbar' value='no'/>
+      <param name='animate_transition' value='yes'/>
+      <param name='display_static_image' value='yes'/>
+      <param name='display_spinner' value='yes'/>
+      <param name='display_count' value='yes'/>
+      <param name='language' value='en-US'/>
+    </object>
+  </div>
+</div>
+<a class="tableau-link" href="https://public.tableau.com/views/Book1_17761379516120/GirlsenrollmentandGDProsetogether20012021" target="_blank">→ View on Tableau Public</a>
 </div>
 
-[View on Tableau Public](https://public.tableau.com/views/GDP_17761769902120/Sheet1)
-
----
-
-### Sketch 4 — Female Youth Literacy Bar Chart (2001–2025)
-
-**Description:** Four bars showing female youth literacy at key points in time. Each bar is a different color: gray for starting point, gold for progress, green for peak, red for projected reversal.
-
-- Bars: 2001 (11%, gray), 2011 (17%, gold), 2021 (44%, green), 2025 projected (28%, red)
-- X axis: Year
-- Y axis: Literacy rate percentage
-- Labels: Percentage shown on top of each bar
-- Annotation: "(Projected)" label on 2025 bar
-- Background: Black (#0a0a0a)
-- Source: UNESCO Institute for Statistics · World Bank WDI
-
-![Sketch 4 - Literacy Bars](sketch4_literacy_bars.jpg)
-
-**Final Tableau Visualization — Chart 3:**
-
-<div class="tableauPlaceholder" style="width:100%;margin:20px 0;">
-<iframe
-  title="44 percent literacy built over 20 years now reversing"
-  src="https://public.tableau.com/views/literacyrate_17761763986470/Sheet1?:embed=y&:showVizHome=no&:toolbar=no"
-  width="100%"
-  height="500"
-  style="border:none;display:block;"
-  allowfullscreen>
-</iframe>
+<!-- SKETCH 3 + CHART 2 -->
+<div class="sketch-block">
+<h3>Sketch 3 — GDP Line Chart: Green to Red (2001–2023)</h3>
+<p>A single continuous line showing Afghanistan GDP from 2001 to 2023. Green during growth, turns red at August 2021. Vertical reference line marks the Taliban takeover.</p>
+<ul class="spec-list">
+  <li>X axis: Year (2001–2023) · Y axis: GDP in billions USD</li>
+  <li><span class="pill green-pill"></span>Green (#4ade80) before 2021 · <span class="pill red-pill"></span>Red (#f87171) after 2021</li>
+  <li>Reference line: Red vertical at 2021 labeled "Taliban Aug 2021"</li>
+  <li>Background: #0a0a0a · Source: World Bank · Macrotrends</li>
+</ul>
+<p class="final-label">Final Tableau Visualization — Chart 2:</p>
+<div class="viz-wrap">
+  <div class='tableauPlaceholder' id='viz_c2' style='position:relative;width:100%;'>
+    <noscript><a href='#'><img alt='GDP collapse' src='https://public.tableau.com/static/images/GD/GDP_17761769902120/Sheet1/1_rss.png' style='border:none;width:100%'/></a></noscript>
+    <object class='tableauViz' style='display:none;'>
+      <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F'/>
+      <param name='embed_code_version' value='3'/>
+      <param name='site_root' value=''/>
+      <param name='name' value='GDP_17761769902120/Sheet1'/>
+      <param name='tabs' value='no'/><param name='toolbar' value='no'/>
+      <param name='animate_transition' value='yes'/>
+      <param name='display_static_image' value='yes'/>
+      <param name='display_spinner' value='yes'/>
+      <param name='display_count' value='yes'/>
+      <param name='language' value='en-US'/>
+      <param name='filter' value='publish=yes'/>
+    </object>
+  </div>
+</div>
+<a class="tableau-link" href="https://public.tableau.com/views/GDP_17761769902120/Sheet1" target="_blank">→ View on Tableau Public</a>
 </div>
 
-[View on Tableau Public](https://public.tableau.com/views/literacyrate_17761763986470/Sheet1)
-
----
-
-### Sketch 5 — GDP Collapse Bar Chart (2017–2022)
-
-**Description:** Six bars showing Afghanistan GDP from 2017 to 2022. Four green bars showing stable growth followed by two dramatic red bars showing the collapse after August 2021. The visual contrast makes the story immediately clear without reading any labels.
-
-- Bars: 2017–2020 (green, #4ade80), 2021–2022 (red, #f87171)
-- X axis: Year (2017–2022)
-- Y axis: GDP in billions USD
-- Labels: Dollar value shown on top of each bar
-- Annotation: "−28% in one year" on 2021 bar
-- Background: Black (#0a0a0a)
-- Source: World Bank · Macrotrends
-
-![Sketch 5 - GDP Collapse Bars](sketch5_gdp_collapse_bars.jpg)
-
-**Final Tableau Visualization — Chart 4:**
-
-<div class="tableauPlaceholder" style="width:100%;margin:20px 0;">
-<iframe
-  title="Afghanistan GDP collapse after Taliban takeover"
-  src="https://public.tableau.com/views/Book2_17761805420180/Dashboard1?:embed=y&:showVizHome=no&:toolbar=no&publish=yes"
-  width="100%"
-  height="795"
-  style="border:none;display:block;"
-  allowfullscreen>
-</iframe>
+<!-- SKETCH 4 + CHART 3 -->
+<div class="sketch-block">
+<h3>Sketch 4 — Female Youth Literacy Bar Chart (2001–2025)</h3>
+<p>Four bars showing female youth literacy at key points. Each bar color signals meaning: gray start, gold progress, green peak, red reversal.</p>
+<ul class="spec-list">
+  <li><span class="pill gray-pill"></span>2001 (11%) · <span class="pill gold-pill"></span>2011 (17%) · <span class="pill green-pill"></span>2021 (44%) · <span class="pill red-pill"></span>2025 projected (28%)</li>
+  <li>Labels: Percentage on top of each bar · "(Projected)" annotation on 2025</li>
+  <li>Background: #0a0a0a · Source: UNESCO Institute for Statistics · World Bank WDI</li>
+</ul>
+<p class="final-label">Final Tableau Visualization — Chart 3:</p>
+<div class="viz-wrap">
+  <div class='tableauPlaceholder' id='viz_c3' style='position:relative;width:100%;'>
+    <noscript><a href='#'><img alt='Literacy bars' src='https://public.tableau.com/static/images/li/literacyrate_17761763986470/Sheet1/1_rss.png' style='border:none;width:100%'/></a></noscript>
+    <object class='tableauViz' style='display:none;'>
+      <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F'/>
+      <param name='embed_code_version' value='3'/>
+      <param name='site_root' value=''/>
+      <param name='name' value='literacyrate_17761763986470/Sheet1'/>
+      <param name='tabs' value='no'/><param name='toolbar' value='no'/>
+      <param name='animate_transition' value='yes'/>
+      <param name='display_static_image' value='yes'/>
+      <param name='display_spinner' value='yes'/>
+      <param name='display_count' value='yes'/>
+      <param name='language' value='en-US'/>
+    </object>
+  </div>
+</div>
+<a class="tableau-link" href="https://public.tableau.com/views/literacyrate_17761763986470/Sheet1" target="_blank">→ View on Tableau Public</a>
 </div>
 
-[View on Tableau Public](https://public.tableau.com/views/Book2_17761805420180/Sheet1)
+<!-- SKETCH 5 + CHART 4 -->
+<div class="sketch-block">
+<h3>Sketch 5 — GDP Collapse Bar Chart (2017–2022)</h3>
+<p>Six bars showing Afghanistan GDP 2017–2022. Four tall green bars of stable growth, then two dramatic red bars — the collapse after August 2021.</p>
+<ul class="spec-list">
+  <li><span class="pill green-pill"></span>2017–2020 (green) stable growth · <span class="pill red-pill"></span>2021–2022 (red) collapse</li>
+  <li>Dollar value labels on top of every bar · "−28% in one year" annotation on 2021</li>
+  <li>Background: #0a0a0a · Source: World Bank · Macrotrends</li>
+</ul>
+<p class="final-label">Final Tableau Visualization — Chart 4:</p>
+<div class="viz-wrap">
+  <div class='tableauPlaceholder' id='viz_c4' style='position:relative;width:100%;'>
+    <noscript><a href='#'><img alt='GDP collapse bars' src='https://public.tableau.com/static/images/Bo/Book2_17761805420180/Dashboard1/1_rss.png' style='border:none;width:100%'/></a></noscript>
+    <object class='tableauViz' style='display:none;'>
+      <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F'/>
+      <param name='embed_code_version' value='3'/>
+      <param name='site_root' value=''/>
+      <param name='name' value='Book2_17761805420180/Dashboard1'/>
+      <param name='tabs' value='no'/><param name='toolbar' value='no'/>
+      <param name='animate_transition' value='yes'/>
+      <param name='display_static_image' value='yes'/>
+      <param name='display_spinner' value='yes'/>
+      <param name='display_count' value='yes'/>
+      <param name='language' value='en-US'/>
+      <param name='filter' value='publish=yes'/>
+    </object>
+  </div>
+</div>
+<a class="tableau-link" href="https://public.tableau.com/views/Book2_17761805420180/Sheet1" target="_blank">→ View on Tableau Public</a>
+</div>
 
----
+<!-- TABLEAU LOADER -->
+<script type='text/javascript'>
+window.addEventListener('load',function(){
+  [
+    {id:'viz_c1',h:null},
+    {id:'viz_c2',h:null},
+    {id:'viz_c3',h:null},
+    {id:'viz_c4',h:'795px'}
+  ].forEach(function(c){
+    var d=document.getElementById(c.id);
+    if(!d)return;
+    var v=d.getElementsByTagName('object')[0];
+    v.style.width='100%';
+    v.style.height=c.h||(d.offsetWidth*0.65)+'px';
+    var s=document.createElement('script');
+    s.src='https://public.tableau.com/javascripts/api/viz_v1.js';
+    v.parentNode.insertBefore(s,v);
+  });
+});
+</script>
 
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
