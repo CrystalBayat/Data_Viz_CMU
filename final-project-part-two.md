@@ -304,14 +304,16 @@ Four individuals were selected to represent the target audience as closely as po
 
 ## Changes Implemented for Part III
 
-| Finding | Change in Part III |
+| Finding from user research | Change implemented in Part III |
 |---|---|
-| All 3 wanted enrollment + GDP on same chart | Built dual-axis Chart 1 showing both on one timeline |
-| All 3 confirmed green/red on black works | Kept color scheme across all 4 charts |
-| Cite sources on chart labels | Added inline source citations in every chart subtitle |
-| Define "female youth literacy" | Added footnote: UNESCO ages 15–24 |
-| Introduce HFHI earlier | Added HFHI stats section before call to action |
-| Integrate global stats | Wove UN Women and World Bank stats into body text |
+| 3 of 4 wanted enrollment + GDP on same chart | Built dual-axis Chart 1 showing both on one timeline 2001–2021 |
+| All 4 confirmed green/red on black works | Kept color scheme unchanged across all 4 charts |
+| Interviewee 1 — cite sources on chart labels | Added inline source citations in subtitle of every visualization |
+| Interviewee 2 — define "female youth literacy" | Added footnote defining as UNESCO ages 15–24 |
+| Interviewee 3 — introduce HFHI earlier | Added HFHI stats section (25,000+ women, 12 countries) before call to action |
+| Interviewee 3 — integrate global stats | Wove UN Women and World Bank stats into image captions and body text |
+| Interviewee 4 — clarify projected data | Added "(Projected)" annotation prominently on 2025 literacy bar |
+| Interviewees 1 and 4 — economic cost per girl | Added World Bank statistic: each additional year of girls' schooling increases future earnings by up to 10% |
 
 ---
 
