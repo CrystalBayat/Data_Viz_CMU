@@ -2,7 +2,7 @@
 
 
 # Final Project Part II: 
-##Wireframes, Storyboards, and User Research
+## Wireframes, Storyboards, and User Research
 
 
 ## Shorthand Draft Story
