@@ -47,9 +47,6 @@ Hope for Her International has been working with women and girls across 12 count
 
 ## Wireframes and Sketches
 
-> **Note:** Hand-drawn sketches for each chart are uploaded to this repository. The images below show the progression from sketch to final Tableau visualization.
-
----
 
 ### Sketch 1 — Before/After Stat Comparison
 
