@@ -288,22 +288,6 @@ Four individuals were selected to represent the target audience as closely as po
 
 ---
 
-## Key Findings
-
-**Consistent across all four interviews:**
-- The before/after structure and August 2021 turning point were immediately clear with no explanation needed
-- All four found the black background with green and red color coding intuitive and readable without the legend
-- All four praised the "economic infrastructure, not charity" framing as the right language for a policy audience
-- Three out of four independently asked to see enrollment and GDP on the same chart
-
-**Divergent observations:**
-- Only Interviewee 2 suggested a recovery comparison section others did not raise this
-- Only Interviewee 4 raised concerns about the projected data point needing clearer visual treatment
-- Only Interviewee 3 suggested restructuring the global evidence section
-- Interviewees 1 and 4 both suggested adding economic cost-per-girl data a strong signal this would strengthen the story
-
----
-
 ## Changes Implemented for Part III
 
 | Finding from user research | Change implemented in Part III |
