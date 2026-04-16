@@ -82,3 +82,13 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 Group Members: Shane, Coraline, Crystal
 
 Today in class, our group discussed which project we want to work on. Our main challenges were narrowing down our ideas, deciding on a clear call to action, finding the right dataset, and choosing the best tools to present our work.
+
+### Team Challenge Exercise: Visualize passengers from the Titanic 
+
+I chose this chart because it clearly shows how different factors are connected and how they influence the final outcome. Unlike simple charts, this flow-style visualization (Sankey diagram) allows us to track relationships across multiple variables at the same time.
+
+<img width="1042" height="620" alt="Screenshot 2026-04-15 at 12 13 47 PM" src="https://github.com/user-attachments/assets/746e2691-cf97-4ca8-9032-1664b6ad0097" />
+
+
+This chart illustrates how passengers are distributed across class, gender, and age, and how these characteristics relate to survival outcomes. The width of each flow represents the number of people, making it easy to see patterns. For example, we can observe that a larger proportion of males are associated with the “no” survival outcome, while certain groups (like females or higher-class passengers) have stronger flows toward survival. Overall, the chart helps highlight how different attributes combine to impact survival in a clear and visual way.
+
