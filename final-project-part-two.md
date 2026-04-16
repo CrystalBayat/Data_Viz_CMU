@@ -316,16 +316,35 @@ Four individuals were selected to represent the target audience as closely as po
 
 ---
 
+## Moodboard
+
+The visual direction draws on the aesthetic of high-impact policy publications World Bank reports, UNICEF data briefs, and Financial Times data journalism.
+
 ## Moodboard and Personas
 
 ### Moodboard
 
-The visual direction draws on the aesthetic of high-impact policy publications World Bank reports, UNICEF data briefs, and Financial Times data journalism.
+The visual direction draws on the aesthetic of high-impact policy publications — World Bank reports, UNICEF data briefs, and Financial Times data journalism.
 
-- Dark backgrounds with high-contrast data overlays
-- Minimal typography with large-format statistics as primary visual elements
-- Green and red as the only two accent colors encoding progress and collapse
-- Clean serif fonts with generous white space
+---
+## Moodboard and Personas
+
+### Moodboard
+
+The visual direction draws on the aesthetic of high-impact policy publications World Bank reports, UNICEF data briefs, and Financial Times data journalism. 
+
+<img width="741" height="839" alt="Screenshot 2026-04-15 at 11 46 44 PM" src="https://github.com/user-attachments/assets/9ba55ff7-9484-4b09-9c67-334bf27b536a" />
+<img width="713" height="160" alt="Screenshot 2026-04-15 at 11 47 21 PM" src="https://github.com/user-attachments/assets/14f54861-060e-437d-8835-31256f028599" />
+
+
+
+**Design keywords:** `Dark canvas` · `Green = progress` · `Red = collapse` · `Before / After` · `Turning point` · `Cited data` · `Investment framing` · `Evidence, not advocacy`
+
+**Inspiration:** Financial Times data journalism · World Bank reports · UNICEF data briefs
+
+
+## Personas
+
 
 ### Persona 1:  The Policymaker
 
