@@ -276,7 +276,7 @@ Four individuals were selected to represent the target audience as closely as po
 
 ## Interview Findings Summary
 
-| Question | Interviewee 1 - Int'l development policy | Interviewee 2 — Nonprofit program director | Interviewee 3 — Public policy grad student | Interviewee 4 — Data analyst, gender economics |
+| Question | Interviewee 1:  Int'l Development Policy | Interviewee 2: Nonprofit Program Director | Interviewee 3: Public Policy Grad Student | Interviewee 4: Data Analyst, Gender Economics |
 |---|---|---|---|---|
 | Main message? | "Girls' education and economic growth are connected — removing one destroys the other." | "The Taliban takeover didn't just harm girls — it harmed the entire economy." | "One policy decision reversed twenty years of progress." | "The economic cost of excluding girls is measurable and catastrophic." |
 | Anything confusing? | Wanted GDP and enrollment on same chart. | Wanted definition of "female youth literacy." | Global evidence section felt disconnected. | 2025 projected bar needs clearer visual treatment. |
@@ -285,7 +285,6 @@ Four individuals were selected to represent the target audience as closely as po
 | Change visualizations? | Build one combined enrollment + GDP chart. | Add one recovery comparison chart. | Integrate global stats into Afghanistan sections. | Color-code axis labels on the dual-axis chart. |
 | Call to action? | "The economic infrastructure framing is exactly the right language." | "This feels like evidence, not advocacy." | "It would land harder if I knew HFHI before reaching it." | "Investment language is exactly right for a research audience." |
 | Anything missing? | Economic cost per year per girl kept out of school. | A recovery comparison section. | More HFHI context before the final section. | Annual economic cost per girl — World Bank has published this figure. |
----
 
 ## Key Findings
 
