@@ -315,18 +315,6 @@ Four individuals were selected to represent the target audience as closely as po
 | Interviewees 1 and 4 — economic cost per girl | Added World Bank statistic: each additional year of girls' schooling increases future earnings by up to 10% |
 
 ---
-
-## Moodboard
-
-The visual direction draws on the aesthetic of high-impact policy publications World Bank reports, UNICEF data briefs, and Financial Times data journalism.
-
-## Moodboard and Personas
-
-### Moodboard
-
-The visual direction draws on the aesthetic of high-impact policy publications — World Bank reports, UNICEF data briefs, and Financial Times data journalism.
-
----
 ## Moodboard and Personas
 
 ### Moodboard
