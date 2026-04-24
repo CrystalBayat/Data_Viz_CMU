@@ -1,36 +1,97 @@
 [Home Page](https://crystalbayat.github.io/Data_Viz_CMU/) | [Class Work](https://crystalbayat.github.io/Data_Viz_CMU/classwork) | [Assignment](https://crystalbayat.github.io/Data_Viz_CMU/Assignment) | [Final Project I](https://crystalbayat.github.io/Data_Viz_CMU/final-project-part-one) | [Final Project II](https://crystalbayat.github.io/Data_Viz_CMU/final-project-part-two) | [Final Project III](https://crystalbayat.github.io/Data_Viz_CMU/final-project-part-three) 
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+>[ → View the published Shorthand story here](https://carnegiemellon.shorthandstories.com/year-in-space-annual-report-copy/index.html)
 
-Text here!
+**Title:**:The Taliban Takeover: How It Dismantled Afghan Society and Collapsed the Economy
+
+**Medium:**  Shorthand scrollable data story + embedded visualizations
+
+**Call to Action:**  Partner with local organizations such as hope for Her International to invest in education of young generation. 
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
-
-Text here!
+Between Part II and the final deliverable, the most significant change was a deliberate broadening of the story's scope. In Part II, the narrative focused specifically on the economic case for girls' education in Afghanistan. While that framing was strong and data-driven, feedback from my user research and my own reflection on the story made clear that it told only part of the picture.
+ 
+The Taliban takeover did not just reverse girls' education. It dismantled an entire society. GDP collapsed 28% in a single year. 3.6 million people fled the country. Doctors, professors, and judges left and never came back. Restricting the story to girls' education alone risked making an immense human and economic catastrophe feel like a single-issue problem. The final story expands the frame to show how every dimension of Afghan society economic, educational, social, and human — was affected by a single political decision on August 15, 2021.
+ 
+This shift required restructuring the Shorthand narrative. In Part II, the story moved from girls' enrollment data to GDP. In the final version, the opening acts establish the scale of what Afghanistan built over twenty years across all sectors, and the collapse sections document the full range of consequences not just for women and girls, but for the entire country. The call to action remains anchored to Hope for Her International, because the organization's work directly addresses the human cost of this collapse across several countries and 12,000+ women served.
+ 
+Several specific changes were made directly in response to user research findings documented in Part II:
+ 
+- Inline source citations were added to every chart subtitle (Interviewee 1 feedback)
+- "Female youth literacy" was defined in a footnote as UNESCO ages 15–24 (Interviewee 2 feedback)
+- Hope for Her International was introduced earlier in the story with key stats before the call to action (Interviewee 3 feedback)
+- Global statistics from UN Women and the World Bank were woven into body text and image captions rather than grouped separately (Interviewee 3 feedback)
+- The 2025 projected literacy bar was given a prominent "(Projected)" annotation (Interviewee 4 feedback)
+- A World Bank statistic on the earnings return per additional year of girls' schooling was added (Interviewees 1 and 4 feedback)
+The visual design system from Part II was kept unchanged. Black background, green for progress, red for collapse. Every interviewee confirmed this color system worked without needing a legend. That consistency was preserved across the final story.
+ 
+---
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
-
-Text here!
+The final story is designed for two primary audiences: **policymakers in international development** and **institutional donors and foundation officers**.
+ 
+These audiences were identified in Part I and refined through the user research in Part II. All four interviewees represented these groups directly a senior international development policy professional, a nonprofit program director managing grant portfolios, a public policy graduate student with humanitarian aid experience, and a data analyst at a gender and economic development research organization. Their feedback shaped nearly every decision in the final deliverable.
+ 
+Policymakers need citable evidence they can use internally. They do not have time for emotional advocacy. They need numbers, named sources, and a clear causal argument. This story gives them World Bank and UNESCO citations directly on chart labels, a before/after structure that requires no explanation, and economic data presented in the language of investment rather than charity. The phrase "educating girls is not charity — it is economic infrastructure" was praised by all four interviewees as exactly the right framing for a policy audience.
+ 
+Institutional donors want to fund measurable impact. They need to be able to take a story into a funding meeting and present it as evidence, not advocacy. One interviewee said directly: "This doesn't feel like an advocacy piece — it feels like evidence. I can take this into a funding meeting without feeling like I am showing them propaganda." That distinction guided every design and content decision in the final deliverable.
+ 
+The broader topic shift — from girls' education specifically to the full societal collapse — also served both audiences better. Donors and policymakers working on any dimension of Afghanistan's recovery (economic, humanitarian, governance, education) can find their entry point in this story. The story does not narrow the audience to education specialists. It opens the argument wide enough that anyone working in international development can see their work reflected in the data.
+ 
+The two personas developed in Part II remained the guiding framework throughout:
+ 
+**Persona 1 — The Policymaker:** A senior advisor at an international development organization who needs clear, citable evidence to make the internal case for investment. Frustrated by advocacy materials that are too emotional and lack rigorous sourcing. This story gives them a data-first narrative with named sources on every chart.
+ 
+**Persona 2 — The Donor:** A program officer at a foundation funding women's rights and education globally. Wants to direct funding where measurable impact is documented. Frustrated by the difficulty of finding stories that connect education outcomes directly to economic indicators. This story gives them a clear before/after economic case with specific numbers and a credible organization to fund.
+ 
+---
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
+The most important design decision in the final project was the choice to let the data speak before the words do. Each section of the Shorthand story is structured so that a reader scrolling quickly — without reading a single caption — can understand the direction and magnitude of what happened. The color shift from green to red does that work. The before/after stat cards do that work. The GDP line turning downward at August 2021 does that work. Words confirm what the visuals already communicate.
+ 
+The black background was a deliberate choice to evoke the aesthetic of high-impact policy publications — Financial Times data journalism, World Bank reports, UNICEF data briefs. This audience reads those publications. A dark, high-contrast visual language signals credibility and seriousness without the reader needing to be told this is rigorous work.
+ 
+The decision to use only two accent colors — green for progress, red for collapse — and to apply them consistently across every chart was the single most commented-on design choice in user research. All four interviewees confirmed they did not need the legend because the colors made the meaning self-evident. Consistency across charts also created a visual system the reader learns once and carries through the entire story.
+ 
+One tension I navigated throughout was the balance between emotional resonance and data credibility. This story is about real people whose lives were upended. The images — including footage from BBC and photography by Kathy Gannon — carry that human weight. The data visualizations carry the economic and policy argument. The design challenge was making sure neither overwhelmed the other. Full-screen imagery was used to let the human cost land before the data arrived, and then the charts were given space to make the argument without competing with emotional imagery.
+ 
+The most difficult design decision was broadening the topic scope from Part II to the final deliverable. Narrower stories are often stronger stories. But the user research made clear that policymakers and donors needed to see the full picture of what the Taliban takeover destroyed — not just one dimension of it — to understand the scale of what is at stake and what organizations like Hope for Her International are working against.
+ 
+Working through this project reinforced something I learned early in this course: the most important design decision is not which chart type to use. It is deciding what story you are telling and who you are telling it to. Everything else — color, layout, typography, chart labels — follows from that. Getting the story right first made every subsequent decision easier.
+ 
 
 ## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+The references below supplement the full citation list already included in the published Shorthand story. All sources are publicly accessible. Images used in the Shorthand story are credited inline to their original sources (BBC, Kathy Gannon) and used in accordance with editorial and educational use guidelines.
+ 
+- World Bank Open Data. (2024). School enrollment, primary and secondary, female — Afghanistan. https://data.worldbank.org/indicator/SE.PRM.ENRR.FE?locations=AF
+- World Bank Open Data. (2024). GDP Afghanistan. https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=AF
+- World Bank Open Data. (2024). Literacy rate, youth female Afghanistan. https://data.worldbank.org/indicator/SE.ADT.LITR.FE.ZS?locations=AF
+- UNESCO Institute for Statistics. (2024). Afghanistan education profile. https://uis.unesco.org/en/country/af
+- Data for Afghanistan. (2024). Education data 2002–2022. https://dataforafghanistan.org/posts/education/
+- Human Rights Watch. (2023). Afghanistan: Taliban ban on girls' education. https://www.hrw.org/tag/girls-education-afghanistan
+- Macrotrends. (2024). Afghanistan GDP 2001–2024. https://www.macrotrends.net/global-metrics/countries/afg/afghanistan/gdp-gross-domestic-product
+- UNHCR. (2025). Afghanistan displacement and refugee data. https://www.unhcr.org/countries/afghanistan
+- IOM. (2025). Afghanistan migration report. https://www.iom.int/countries/afghanistan
+- Hope for Her International. (2024). About. https://hopeforherinternational.org
+---
 
-## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
-
+## AI Acknowledgements
+ 
+Claude (Anthropic) was used throughout this project to assist with story structure, writeup drafting, and documentation for Parts I, II, and III of this final project. All research, data selection, topic framing, interview design, design decisions, and the overall creative and intellectual direction of the project are entirely my own. Claude was used as a writing and organizational tool, not as a source of data, analysis, or original ideas.
 Text here!
 
-# Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
-
+## Final Thoughts
+ 
+This project started as a data story about girls' education in Afghanistan. It ended as a story about what happens when a society dismantles itself in a single afternoon.
+ 
+That shift in scope was the hardest and most important decision I made in Part III. I was attached to the original framing. The economic case for girls' education is a story I believe in deeply — it connects directly to the work of Hope for Her International and to my own background. But the data kept pointing beyond it. The brain drain. The GDP collapse. The 3.6 million people who left. The story that the data was telling was bigger than the frame I had built for it in Part II.
+ 
+Letting the data lead rather than forcing it to fit my original argument was the most valuable thing I practiced in this course. That is what telling stories with data actually means — not finding data to support a story you already want to tell, but letting the data show you the story that needs to be told.
+ 
+If I had more time, I would have built an interactive timeline allowing readers to click through each year from 2001 to 2025 and see how every indicator — GDP, enrollment, literacy, displacement — moved together. I would have also added a recovery comparison section showing what happened in similar post-conflict countries that invested in education, which Interviewee 2 suggested and which I was not able to build before the deadline.
+ 
+What I am most proud of is the color system. Green for progress, red for collapse, applied consistently across every visualization. Four people who had never seen this story before understood it immediately without reading a single label. That is what good data visualization is supposed to do.
+ 
+---
 
