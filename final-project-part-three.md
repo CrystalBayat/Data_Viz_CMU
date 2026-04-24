@@ -83,15 +83,12 @@ Text here!
 
 ## Final Thoughts
  
-This project started as a data story about girls' education in Afghanistan. It ended as a story about what happens when a society dismantles itself in a single afternoon.
- 
-That shift in scope was the hardest and most important decision I made in Part III. I was attached to the original framing. The economic case for girls' education is a story I believe in deeply — it connects directly to the work of Hope for Her International and to my own background. But the data kept pointing beyond it. The brain drain. The GDP collapse. The 3.6 million people who left. The story that the data was telling was bigger than the frame I had built for it in Part II.
- 
-Letting the data lead rather than forcing it to fit my original argument was the most valuable thing I practiced in this course. That is what telling stories with data actually means — not finding data to support a story you already want to tell, but letting the data show you the story that needs to be told.
- 
-If I had more time, I would have built an interactive timeline allowing readers to click through each year from 2001 to 2025 and see how every indicator — GDP, enrollment, literacy, displacement — moved together. I would have also added a recovery comparison section showing what happened in similar post-conflict countries that invested in education, which Interviewee 2 suggested and which I was not able to build before the deadline.
- 
-What I am most proud of is the color system. Green for progress, red for collapse, applied consistently across every visualization. Four people who had never seen this story before understood it immediately without reading a single label. That is what good data visualization is supposed to do.
- 
+The part of this process I underestimated most was how long the small decisions take. Choosing the right font size for a chart label. Deciding whether a caption belongs above or below an image. Testing whether a scroll transition lands at the right moment. None of those feel like "design" when you read about them but they are where most of the time actually goes.
+
+What excited me most was watching the color system work exactly as intended. Green for progress, red for collapse. I was not sure until I showed it to real people whether it would be as self-evident as I hoped. Every person understood it immediately. That felt like the course actually working.
+
+What I ran out of time for was a recovery comparison showing what happened in similar post-conflict countries like Rwanda or Bangladesh that invested in girls' education after a crisis. Interviewee 2 suggested it and she was right. Without it, the story ends on collapse. I would have liked to give the audience a path forward, not just a diagnosis.
+The biggest thing I am taking away from this course is the difference between having data and telling a story with it. I started this project with good data. Learning how to shape it, what to show first, what to leave out, when to let an image do the work instead of a chart that is what this course actually taught me.
+
 ---
 
