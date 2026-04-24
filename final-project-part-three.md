@@ -83,12 +83,13 @@ Text here!
 
 ## Final Thoughts
  
-The part of this process I underestimated most was how long the small decisions take. Choosing the right font size for a chart label. Deciding whether a caption belongs above or below an image. Testing whether a scroll transition lands at the right moment. None of those feel like "design" when you read about them but they are where most of the time actually goes.
+I am originally from Afghanistan. This was not just a class project for me. Every number in this story represents something I have lived close to families I know, a country I carry with me.
+Working on this was hard in ways I did not expect. Some of the data I found, I had to stop and breathe before I kept going. 3.6 million people displaced. That is not a statistic to me.
 
-What excited me most was watching the color system work exactly as intended. Green for progress, red for collapse. I was not sure until I showed it to real people whether it would be as self-evident as I hoped. Every person understood it immediately. That felt like the course actually working.
+The most frustrating part was that the data is not always there. Afghanistan's records are incomplete. A lot of suffering is not captured in any dataset. I wanted to back every part of the story with a number but sometimes the number does not exist. That was painful in its own way.
 
-What I ran out of time for was a recovery comparison showing what happened in similar post-conflict countries like Rwanda or Bangladesh that invested in girls' education after a crisis. Interviewee 2 suggested it and she was right. Without it, the story ends on collapse. I would have liked to give the audience a path forward, not just a diagnosis.
-The biggest thing I am taking away from this course is the difference between having data and telling a story with it. I started this project with good data. Learning how to shape it, what to show first, what to leave out, when to let an image do the work instead of a chart that is what this course actually taught me.
+I also ran out of time. Between other courses and responsibilities I could not go as deep as I wanted. There is so much more to this story.
+But I am grateful I got to tell even a small part of it. This is my country. These are my people. I hope this story makes someone pay attention.
 
 ---
 
