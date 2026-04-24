@@ -48,18 +48,16 @@ The two personas developed in Part II remained the guiding framework throughout:
 ---
 
 ## Final design decisions
-The most important design decision in the final project was the choice to let the data speak before the words do. Each section of the Shorthand story is structured so that a reader scrolling quickly — without reading a single caption — can understand the direction and magnitude of what happened. The color shift from green to red does that work. The before/after stat cards do that work. The GDP line turning downward at August 2021 does that work. Words confirm what the visuals already communicate.
- 
-The black background was a deliberate choice to evoke the aesthetic of high-impact policy publications — Financial Times data journalism, World Bank reports, UNICEF data briefs. This audience reads those publications. A dark, high-contrast visual language signals credibility and seriousness without the reader needing to be told this is rigorous work.
- 
-The decision to use only two accent colors — green for progress, red for collapse — and to apply them consistently across every chart was the single most commented-on design choice in user research. All four interviewees confirmed they did not need the legend because the colors made the meaning self-evident. Consistency across charts also created a visual system the reader learns once and carries through the entire story.
- 
-One tension I navigated throughout was the balance between emotional resonance and data credibility. This story is about real people whose lives were upended. The images — including footage from BBC and photography by Kathy Gannon — carry that human weight. The data visualizations carry the economic and policy argument. The design challenge was making sure neither overwhelmed the other. Full-screen imagery was used to let the human cost land before the data arrived, and then the charts were given space to make the argument without competing with emotional imagery.
- 
-The most difficult design decision was broadening the topic scope from Part II to the final deliverable. Narrower stories are often stronger stories. But the user research made clear that policymakers and donors needed to see the full picture of what the Taliban takeover destroyed — not just one dimension of it — to understand the scale of what is at stake and what organizations like Hope for Her International are working against.
- 
-Working through this project reinforced something I learned early in this course: the most important design decision is not which chart type to use. It is deciding what story you are telling and who you are telling it to. Everything else — color, layout, typography, chart labels — follows from that. Getting the story right first made every subsequent decision easier.
- 
+My biggest decision was to let the visuals do the talking before the words do. I wanted someone who is just scrolling not even reading to still understand what happened. The color changing from green to red, the stat cards, the GDP line dropping at 2021. You do not need to read anything. You already feel it.
+
+I chose a dark, cinematic visual style because this story is heavy. It is not a cheerful topic. The dark background matched the weight of what I was trying to say. It felt wrong to tell a story about collapse and displacement on a bright white page. I only used two colors across the whole story. Green means progress. Red means collapse. Every single chart uses the same system. All four people I interviewed said they did not even need the legend. They just knew. That was the moment I felt like the design was working.
+
+The hardest balance was between the emotional side and the data side. The images from BBC and Kathy Gannon carry the human pain. The charts carry the economic argument. I did not want them to fight each other. So I used full screen images first to let people feel something, and then brought in the data.
+
+The hardest decision overall was expanding the topic beyond girls' education. I know narrower stories are usually stronger. But my research interviews kept showing me that policymakers and donors needed to see the full picture of what collapsed, not just one part of it.
+
+The biggest thing this course taught me is that the most important question is not what chart type to use. It is what story are you telling and who are you telling it to. Once I had that answer, every other decision became easier.
+
 
 ## References
 The references below supplement the full citation list already included in the published Shorthand story. All sources are publicly accessible. Images used in the Shorthand story are credited inline to their original sources (BBC, Kathy Gannon) and used in accordance with editorial and educational use guidelines.
