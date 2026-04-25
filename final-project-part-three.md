@@ -60,7 +60,6 @@ The biggest thing this course taught me is that the most important question is n
 
 
 ## References
-## References
 
 The references below supplement the full citation list included in the published Shorthand story. 
 All sources are publicly accessible.
