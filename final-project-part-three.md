@@ -62,7 +62,7 @@ The biggest thing this course taught me is that the most important question is n
 ## References
 The references below supplement the full citation list already included in the published Shorthand story. All sources are publicly accessible. Images used in the Shorthand story are credited inline to their original sources (BBC, Kathy Gannon) and used in accordance with editorial and educational use guidelines.
  
-- World Bank Open Data. (2024). School enrollment, primary and secondary, female — Afghanistan. https://data.worldbank.org/indicator/SE.PRM.ENRR.FE?locations=AF
+- World Bank Open Data. (2024). School enrollment, primary and secondary, female Afghanistan. https://data.worldbank.org/indicator/SE.PRM.ENRR.FE?locations=AF
 - World Bank Open Data. (2024). GDP Afghanistan. https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=AF
 - World Bank Open Data. (2024). Literacy rate, youth female Afghanistan. https://data.worldbank.org/indicator/SE.ADT.LITR.FE.ZS?locations=AF
 - UNESCO Institute for Statistics. (2024). Afghanistan education profile. https://uis.unesco.org/en/country/af
