@@ -37,7 +37,7 @@ Policymakers need citable evidence they can use internally. They do not have tim
  
 Institutional donors want to fund measurable impact. They need to be able to take a story into a funding meeting and present it as evidence, not advocacy. One interviewee said directly: "This doesn't feel like an advocacy piece, it feels like evidence. I can take this into a funding meeting without feeling like I am showing them propaganda." That distinction guided every design and content decision in the final deliverable.
  
-The broader topic shift from girls' education specifically to the full societal collapse — also served both audiences better. Donors and policymakers working on any dimension of Afghanistan's recovery (economic, humanitarian, governance, education) can find their entry point in this story. The story does not narrow the audience to education specialists. It opens the argument wide enough that anyone working in international development can see their work reflected in the data.
+The broader topic shift from girls' education specifically to the full societal collapse also served both audiences better. Donors and policymakers working on any dimension of Afghanistan's recovery (economic, humanitarian, governance, education) can find their entry point in this story. The story does not narrow the audience to education specialists. It opens the argument wide enough that anyone working in international development can see their work reflected in the data.
  
 The two personas developed in Part II remained the guiding framework throughout:
  
