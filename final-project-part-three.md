@@ -7,7 +7,7 @@
 
 **Medium:**  Shorthand scrollable data story + embedded visualizations
 
-**Call to Action:**  Partner with local organizations such as hope for Her International to invest in education of young generation. 
+**Call to Action:**  Partner with local organizations such as Hope for Her International to invest in education of young generation. 
 
 # Changes made since Part II
 Between Part II and the final deliverable, the most significant change was a deliberate broadening of the story's scope. In Part II, the narrative focused specifically on the economic case for girls' education in Afghanistan. While that framing was strong and data-driven, feedback from my user research and my own reflection on the story made clear that it told only part of the picture.
@@ -24,7 +24,7 @@ Several specific changes were made directly in response to user research finding
 - Global statistics from UN Women and the World Bank were woven into body text and image captions rather than grouped separately (Interviewee 3 feedback)
 - The 2025 projected literacy bar was given a prominent "(Projected)" annotation (Interviewee 4 feedback)
 - A World Bank statistic on the earnings return per additional year of girls' schooling was added (Interviewees 1 and 4 feedback)
-The visual design system from Part II was kept unchanged. Black background, green for progress, red for collapse. Every interviewee confirmed this color system worked without needing a legend. That consistency was preserved across the final story.
+The visual design system from Part II was kept unchanged. Dark, cinematic visual style, green for progress, red for collapse. Every interviewee confirmed this color system worked without needing a legend. That consistency was preserved across the final story.
  
 ---
 
@@ -50,7 +50,7 @@ The two personas developed in Part II remained the guiding framework throughout:
 ## Final design decisions
 My biggest decision was to let the visuals do the talking before the words do. I wanted someone who is just scrolling not even reading to still understand what happened. The color changing from green to red, the stat cards, the GDP line dropping at 2021. You do not need to read anything. You already feel it.
 
-I chose a dark, cinematic visual style because this story is heavy. It is not a cheerful topic. The dark background matched the weight of what I was trying to say. It felt wrong to tell a story about collapse and displacement on a bright white page. I only used two colors across the whole story. Green means progress. Red means collapse. Every single chart uses the same system. All four people I interviewed said they did not even need the legend. They just knew. That was the moment I felt like the design was working.
+I chose dark, cinematic visual style because this story is heavy. It is not a cheerful topic. The dark background matched the weight of what I was trying to say. It felt wrong to tell a story about collapse and displacement on a bright white page. I only used two colors across the whole story. Green means progress. Red means collapse. Every single chart uses the same system. All four people I interviewed said they did not even need the legend. They just knew. That was the moment I felt like the design was working.
 
 The hardest balance was between the emotional side and the data side. The images from BBC and Kathy Gannon carry the human pain. The charts carry the economic argument. I did not want them to fight each other. So I used full screen images first to let people feel something, and then brought in the data.
 
@@ -77,7 +77,7 @@ The references below supplement the full citation list already included in the p
 ## AI Acknowledgements
  
 Claude (Anthropic) was used throughout this project to assist with story structure, writeup drafting, and documentation for Parts I, II, and III of this final project. All research, data selection, topic framing, interview design, design decisions, and the overall creative and intellectual direction of the project are entirely my own. Claude was used as a writing and organizational tool, not as a source of data, analysis, or original ideas.
-Text here!
+
 
 ## Final Thoughts
  
