@@ -61,12 +61,10 @@ The biggest thing this course taught me is that the most important question is n
 
 ## References
 
-The references below supplement the full citation list included in the published Shorthand story. 
-All sources are publicly accessible.
+The references below supplement the full citation list included in the published Shorthand story. All sources are publicly accessible.
 
 ### Data Sources
-
-- World Bank Open Data. (2024). School enrollment, primary and secondary, female — Afghanistan. https://data.worldbank.org/indicator/SE.PRM.ENRR.FE?locations=AF
+- World Bank Open Data. (2024). School enrollment, primary and secondary, female Afghanistan. https://data.worldbank.org/indicator/SE.PRM.ENRR.FE?locations=AF
 - World Bank Open Data. (2024). GDP Afghanistan. https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=AF
 - World Bank Open Data. (2024). Literacy rate, youth female Afghanistan. https://data.worldbank.org/indicator/SE.ADT.LITR.FE.ZS?locations=AF
 - UNESCO Institute for Statistics. (2024). Afghanistan education profile. https://uis.unesco.org/en/country/af
@@ -76,6 +74,20 @@ All sources are publicly accessible.
 - UNHCR. (2025). Afghanistan displacement and refugee data. https://www.unhcr.org/countries/afghanistan
 - IOM. (2025). Afghanistan migration report. https://www.iom.int/countries/afghanistan
 - Hope for Her International. (2024). About. https://hopeforherinternational.org
+
+### Image & Media Citations
+- Gannon, K. (2021). Taliban fighters on armored vehicle in Kabul, Afghanistan [Photograph]. Getty Images.
+- Hassan, R. (2021, August). Afghan civilians displaced after Taliban takeover [Photograph]. Getty Images.
+- BBC News. (2021). Footage of Afghan civilians during Taliban takeover [Video]. BBC. https://www.bbc.com
+- Reuters. (2021, August 19). Afghan women in burqas under Taliban rule [Photograph]. ABC News. https://www.abc.net.au/news/womens-rights-and-sharia-law
+- Tanveer, J. (2021). Taliban-era restrictions on women in Afghanistan [Photograph]. AFP via Getty Images.
+- OpenAI. (2026). AI-generated illustration of Taliban soldiers at school gate [Digital image]. ChatGPT. https://chat.openai.com
+- Amnesty International / Los Angeles Times. (n.d.). Portrait of Afghan man [Photograph]. Los Angeles Times.
+- Weaveravel. (2020, March 5). Kabul, Afghanistan view [Photograph]. Wikimedia Commons, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Kabul,_Afghanistan_view.jpg
+- Noroozi, E. (2023, May 23). Taliban fighter stands guard as women wait to receive food rations in Kabul [Photograph]. The Associated Press via Euronews.
+- Getty Images. (n.d.). Afghan woman and children living in poverty [Photograph]. Getty Images.
+- Hope for Her International. (2026). Girls attending class [Video footage]. Hope for Her International. https://hopeforherinternational.org
+- 
 
 ### Image & Media Citations
 
