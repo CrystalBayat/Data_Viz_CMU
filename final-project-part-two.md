@@ -267,7 +267,7 @@ The visual direction draws on the aesthetic of high-impact policy publications W
 
 ## AI Acknowledgment
 
-Claude (Anthropic) was used to assist with story structure, topic framing, documentation and drafting throughout Part II. All research, data selection, design decisions, and the overall direction are entirely my own.
+Claude (Anthropic) was used to assist with story structure, topic framing, documentation, coding and drafting throughout Part II. All research, data selection, design decisions, and the overall direction are entirely my own.
 
 ---
 
