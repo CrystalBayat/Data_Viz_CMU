@@ -107,6 +107,3 @@ The most frustrating part was that the data is not always there. Afghanistan's r
 
 I also ran out of time. Between other courses and responsibilities I could not go as deep as I wanted. There is so much more to this story.
 But I am grateful I got to tell even a small part of it. This is my country. These are my people. I hope this story makes someone pay attention.
-
----
-
